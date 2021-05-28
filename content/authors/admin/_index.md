@@ -6,10 +6,10 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of Palermo
-    year: 2019
+    year: 2018
   - course: MSc in Statistical Sciences (with honors)
     institution: University of Palermo
-    year: 2015
+    year: 2014
   - course: BSc in Applied Mathematics
     institution: University of Palermo
     year: 2012
