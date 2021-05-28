@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 | Gianluca Sottile</title>
+    <link>http://gianlucasottile.rbind.io/tag/2017/</link>
+      <atom:link href="http://gianlucasottile.rbind.io/tag/2017/index.xml" rel="self" type="application/rss+xml" />
+    <description>2017</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gianlucasottile.rbind.io/images/icon_huc9e23e5333bea669f9b3539b46730f9f_35228_512x512_fill_lanczos_center_2.png</url>
+      <title>2017</title>
+      <link>http://gianlucasottile.rbind.io/tag/2017/</link>
+    </image>
+    
+    <item>
+      <title>2017</title>
+      <link>http://gianlucasottile.rbind.io/project/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2017/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mastrangelo, S., Tolone, M., Sardina, M.T., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sutera, A.M., Di Gerlando, R., Portolano, B. (2017)&lt;br&gt;
+Genome-wide scan for runs of homozygosity identifies potential candidate genes associated with local adaptation in Valle del Belice sheep &lt;br&gt;
+&lt;em&gt;Genetics Selection Evolution&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://gsejournal.biomedcentral.com/articles/10.1186/s12711-017-0360-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://gianlucasottile.rbind.io/publications_full_list/&#34;&gt;Publications in monographs and refereed conference proceedings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

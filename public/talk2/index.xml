@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Projects | Gianluca Sottile</title>
+    <link>http://gianlucasottile.rbind.io/talk2/</link>
+      <atom:link href="http://gianlucasottile.rbind.io/talk2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gianlucasottile.rbind.io/images/icon_huc9e23e5333bea669f9b3539b46730f9f_35228_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent Projects</title>
+      <link>http://gianlucasottile.rbind.io/talk2/</link>
+    </image>
+    
+    <item>
+      <title>CoViSTAT19</title>
+      <link>http://gianlucasottile.rbind.io/talk2/covistat/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk2/covistat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metodi e Modelli Numerici per l&#39;Analisi dei Network di Interazione nelle Terapie Geniche</title>
+      <link>http://gianlucasottile.rbind.io/talk2/aim/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk2/aim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 | Gianluca Sottile</title>
+    <link>http://gianlucasottile.rbind.io/tag/2021/</link>
+      <atom:link href="http://gianlucasottile.rbind.io/tag/2021/index.xml" rel="self" type="application/rss+xml" />
+    <description>2021</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gianlucasottile.rbind.io/images/icon_huc9e23e5333bea669f9b3539b46730f9f_35228_512x512_fill_lanczos_center_2.png</url>
+      <title>2021</title>
+      <link>http://gianlucasottile.rbind.io/tag/2021/</link>
+    </image>
+    
+    <item>
+      <title>2021</title>
+      <link>http://gianlucasottile.rbind.io/project/2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Ferrante, G., Cilluffo, G., Fasola, S., Malizia, V., Muggeo, V.M.R., Viegi, G., La Grutta, S. (2021) &lt;br&gt;
+A model-based approach for assessing bronchodilator responsiveness in children: The conventional cutoff revisited &lt;br&gt;
+&lt;em&gt;Journal of Allergy and Clinical Immunology&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://www.jacionline.org/article/S0091-6749%2820%2931104-0/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://gianlucasottile.shinyapps.io/DynNomapp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., Battaglini, I., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2021) &lt;br&gt;
+Activation-Induced Rigidity in Neurologically and Cognitively Healthy Individuals Aged 18-90 Years: A Cross-Sectional Study&lt;br&gt;
+&lt;em&gt;Journal of Parkinson&amp;rsquo;s Disease&lt;/em&gt; &lt;br&gt;
+
+&lt;a href=&#34;https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd202488&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

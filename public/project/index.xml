@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Gianluca Sottile</title>
+    <link>http://gianlucasottile.rbind.io/project/</link>
+      <atom:link href="http://gianlucasottile.rbind.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gianlucasottile.rbind.io/images/icon_huc9e23e5333bea669f9b3539b46730f9f_35228_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://gianlucasottile.rbind.io/project/</link>
+    </image>
+    
+    <item>
+      <title>2021</title>
+      <link>http://gianlucasottile.rbind.io/project/2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Ferrante, G., Cilluffo, G., Fasola, S., Malizia, V., Muggeo, V.M.R., Viegi, G., La Grutta, S. (2021) &lt;br&gt;
+A model-based approach for assessing bronchodilator responsiveness in children: The conventional cutoff revisited &lt;br&gt;
+&lt;em&gt;Journal of Allergy and Clinical Immunology&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://www.jacionline.org/article/S0091-6749%2820%2931104-0/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://gianlucasottile.shinyapps.io/DynNomapp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., Battaglini, I., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2021) &lt;br&gt;
+Activation-Induced Rigidity in Neurologically and Cognitively Healthy Individuals Aged 18-90 Years: A Cross-Sectional Study&lt;br&gt;
+&lt;em&gt;Journal of Parkinson&amp;rsquo;s Disease&lt;/em&gt; &lt;br&gt;
+
+&lt;a href=&#34;https://content.iospress.com/articles/journal-of-parkinsons-disease/jpd202488&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>http://gianlucasottile.rbind.io/project/2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Tolone, M., Ben Jemaa, S., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Di Gerlando, R., Cortés, O., Senczuk, G., Portolano, B., Pilla, F., Ciani, E. (2020) &lt;br&gt;
+Refining the genetic structure and relationships of European cattle breeds through meta-analysis of worldwide genomic SNP data, focusing on Italian cattle   &lt;br&gt;
+&lt;em&gt;Scientific Reports&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://www.nature.com/articles/s41598-020-71375-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Ben Jemaa, S., Ciani, E., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Moscarelli, A., Boussaha, M., Montedoro, M., Pilla, F., Cassandro, M. (2020) &lt;br&gt;
+Genome-wide detection of signatures of selection in three Valdostana cattle populations&lt;br&gt;
+&lt;em&gt;Journal of Animal Breeding and Genetics&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1111/jbg.12476&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Augugliaro, L., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Vinciotti, V. (2020) &lt;br&gt;
+The conditional censored graphical lasso estimator &lt;br&gt;
+&lt;em&gt;Statistics and Computing&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s11222-020-09945-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/cglasso/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Frumento, P., Chiodi, M., Bottai, M. (2020)&lt;br&gt;
+A penalized approach to covariate selection through quantile regression coefficient models &lt;br&gt;
+&lt;em&gt;Statistical Modelling&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/1471082X19825523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/qrcmNP/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cilluffo, G., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, La Grutta, S., Muggeo, V.M.R. (2020) &lt;br&gt;
+The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression &lt;br&gt;
+&lt;em&gt;Statistical Methods in Medical Research&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0962280219842890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/islasso/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cilluffo, G., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, La Grutta, S., Muggeo, V.M.R. (2020) &lt;br&gt;
+The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression &lt;br&gt;
+&lt;em&gt;Statistical Methods in Medical Research&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://journals.sagepub.com/doi/full/10.1177/0962280219842890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; | 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/islasso/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Cendron, F., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Niero, G., Portolano, B., Biscarini, F., Cassandro, M. (2020) &lt;br&gt;
+Genome-wide analyses identifies known and new markers responsible of chicken plumage color   &lt;br&gt;
+&lt;em&gt;Animals&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://www.mdpi.com/2076-2615/10/3/493&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D’Alessandro, E., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sardina, M.T., Criscione, A., Bordonaro, S., Sutera, A.M., Zumbo, A., Portolano, B., Mastrangelo, S. (2020)&lt;br&gt;
+Genome-wide analyses reveal the regions involved in the phenotypic diversity in Sicilian pigs&lt;br&gt;
+&lt;em&gt;Animal Genetics&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12887&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boscaino, G., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Adelfio, G. (2020) &lt;br&gt;
+Migration and students&#39; performance: detecting geographical differences following a curves clustering approach &lt;br&gt;
+&lt;em&gt;Journal of Applied Statistics&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1845624&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2020)&lt;br&gt;
+APOE Genotypes and Brain Imaging Classes in Normal Cognition, Mild Cognitive Impairment, and Alzheimer&amp;rsquo;s Disease: A Longitudinal Study &lt;br&gt;
+&lt;em&gt;Current Alzheimer research&lt;/em&gt;
+
+&lt;a href=&#34;https://www.eurekaselect.com/187691/article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Camarda, R., Pipia, C., Azzarello, D., Grassedonio, E., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Torelli, P. (2020) &lt;br&gt;
+Isolated, Subtle Neurological Abnormalities in Mild Cognitive Impairment Types &lt;br&gt;
+&lt;em&gt;Canadian Journal of Neurological Sciences&lt;/em&gt;
+
+&lt;a href=&#34;https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/isolated-subtle-neurological-abnormalities-in-mild-cognitive-impairment-types/C843E13771D46677512E55B3E189FEAD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>http://gianlucasottile.rbind.io/project/2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2019/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Ben Jemaa, S., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Casu, S., Portolano, B., Ciani, E., Pilla, F. (2019) &lt;br&gt;
+Combined approaches to identify genomic regions involved in phenotypic differentiation between low divergent breeds: Application in Sardinian sheep populations   &lt;br&gt;
+&lt;em&gt;Journal of Animal Breeding and Genetics&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/jbg.12422&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sardina, M.T., Sutera, A.M., Tolone, M., Di Gerlando, R., Portolano, B. (2019)
+A combined genome-wide approach identifies a new potential candidate marker associated with the coat color sidedness in cattle&lt;br&gt;
+&lt;em&gt;Livestock Science&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1871141318305432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Adelfio, G. (2019)   &lt;br&gt;
+Clusters of effects curves in quantile regression models   &lt;br&gt;
+&lt;em&gt;Computational Statistics&lt;/em&gt;
+
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s00180-018-0817-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Criscione, A., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Portolano, B., Marletta, D., Bordonaro, S. (2019)  &lt;br&gt;
+Genome-wide analysis identifies potentially causative genes explaining the phenotypic variability in Pinzirita sheep &lt;br&gt;
+&lt;em&gt;Animal Genetics&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12763?af=R&amp;amp;utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A&amp;#43;AnimalGenetics&amp;#43;%28Animal&amp;#43;Genetics%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Di Gerlando, R., Sutera, A.M., Mastrangelo, S., Tolone, M., Portolano, B., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Bagnato, A., Strillacci, M.G., Sardina, M.T. (2019)   &lt;br&gt;
+Genome-wide association study between CNVs and milk production traits in Valle del Belice sheep  &lt;br&gt;
+&lt;em&gt;PLoS ONE&lt;/em&gt;
+
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215204&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., Azzarello, D., Battaglini, I., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2019) &lt;br&gt;
+Nociceptive Primitive Reflexes in Neurologically and Cognitively Healthy Aging Subjects&lt;br&gt;
+&lt;em&gt;Canadian Journal of Neurological Sciences&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/nociceptive-primitive-reflexes-in-neurologically-and-cognitively-healthy-aging-subjects/1A7FBE69481ACAC264514CEEE0B0FDD8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Ferrante, G., Torregrossa, M., Cibella, F., Cilluffo, G., Fasola, S., Alessandro, R., Seidita, G., Viegi, G., La Grutta, S. (2019) &lt;br&gt;
+An association analysis to identify genetic variants linked to asthma and rhino-conjunctivitis in a cohort of Sicilian children&lt;br&gt;
+&lt;em&gt;Italian Journal of Pediatrics&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://ijponline.biomedcentral.com/articles/10.1186/s13052-019-0603-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., Battaglini, I., Azzarello, D., Rosano, R., Ventimiglia, C.C., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2019) &lt;br&gt;
+Mild Parkinsonian signs in a hospital-based cohort of mild cognitive impairment types: A cross-sectional study &lt;br&gt;
+&lt;em&gt;Current Alzheimer Research&lt;/em&gt;
+
+&lt;a href=&#34;https://www.eurekaselect.com/173886/article?tracking-code=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sutera, A.M., Di Gerlando, R., Tolone, M., Moscarelli, A., Sardina, M.T., Portolano, B. (2018) &lt;br&gt;
+Genome-wide association study reveals the locus responsible for microtia in Valle del Belice sheep breed   &lt;br&gt;
+&lt;em&gt;Animal Genetics&lt;/em&gt;&lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12719&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sardina, M.T., Mastrangelo, S., Di Gerlando, R., Tolone, M., Chiodi, M., Portolano, B. (2018)&lt;br&gt;
+Penalized classification for optimal statistical selection of markers from high-throughput genotyping: Application in sheep breeds &lt;br&gt;
+&lt;em&gt;Animal&lt;/em&gt; &lt;br&gt;
+
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S175173111700266X?via%3Dihub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>http://gianlucasottile.rbind.io/project/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2018/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Mastrangelo, S., Ciani, E., Sardina, M.T., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Pilla, F., Portolano, B., The Bi.Ov. Ita Consortium (2018)&lt;br&gt;
+Runs of homozygosity reveal genome-wide autozygosity in Italian sheep breeds &lt;br&gt;
+&lt;em&gt;Animal Genetics&lt;/em&gt;    &lt;br&gt;
+
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12634&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camarda, C., Torelli, P., Pipia, C., Battaglini, I., Azzarello, D., Rosano, R., Ventimiglia, G.D., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Cilluffo, G., Camarda, R. (2018) &lt;br&gt;
+Association between atrophy of the caudate nuclei, global brain atrophy, cerebral small vessel disease and mild parkinsonian signs in neurologically and cognitively healthy subjects aged 45-84 years: A cross-sectional study &lt;br&gt;
+&lt;em&gt;Current Alzheimer Research&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://www.eurekaselect.com/163386/article&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>http://gianlucasottile.rbind.io/project/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/2017/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Articles in refereed journals&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Mastrangelo, S., Tolone, M., Sardina, M.T., &lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sutera, A.M., Di Gerlando, R., Portolano, B. (2017)&lt;br&gt;
+Genome-wide scan for runs of homozygosity identifies potential candidate genes associated with local adaptation in Valle del Belice sheep &lt;br&gt;
+&lt;em&gt;Genetics Selection Evolution&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://gsejournal.biomedcentral.com/articles/10.1186/s12711-017-0360-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://gianlucasottile.rbind.io/publications_full_list/&#34;&gt;Publications in monographs and refereed conference proceedings&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference proceedings</title>
+      <link>http://gianlucasottile.rbind.io/project/conference-proceedings/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/project/conference-proceedings/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Refereed conference proceedings&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Francipane, A., Noto, V.L. and Adelfio, G. (2020)&lt;br&gt;
+FPCA Clustering of rainfall events     &lt;br&gt;
+&lt;em&gt;Book of Short Papers SIS 2020&lt;/em&gt;   &lt;br&gt;
+
+&lt;a href=&#34;https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%c3%a0/Pearson-SIS-2020-atti-convegno.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and Muggeo, V.M.R. (Contributed) (2019)
+Non-crossing quantile regression via monotone B-spline varying coefficients    &lt;br&gt;
+&lt;em&gt;Proceedings of 34st International Workshop of Statistical Modelling&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Augugliaro L. and Vinciotti V. (Invited) (2019)&lt;br&gt;
+An extension of the censored gaussian lasso estimator.   &lt;br&gt;
+&lt;em&gt;Book of Abstracts of the 32nd edition of the European Meeting of Statisticians&lt;/em&gt;     &lt;br&gt;
+
+&lt;a href=&#34;http://www-math.sp2mi.univ-poitiers.fr/~yslaoui/EMS19-Book_of_Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and Frumento, P. (Invited) (2019) &lt;br&gt;
+Non-Crossing Parametric Quantile Functions: An Application to Extreme Temperatures  &lt;br&gt;
+&lt;em&gt;Book of Short Papers SIS 2019&lt;/em&gt;      &lt;br&gt;
+
+&lt;a href=&#34;https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and V.M.R. Muggeo (Invited) (2019)
+A new tuning parameter selector in lasso regression   &lt;br&gt;
+&lt;em&gt;Book of Short Papers SIS 2019&lt;/em&gt;  &lt;br&gt;
+
+&lt;a href=&#34;https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Boscaino, G., Adelfio, G. and &lt;strong&gt;Sottile, G.&lt;/strong&gt; (Poster) (2018)   &lt;br&gt;
+A distribution curves comparison approach to analyze the university moving students’ performance      &lt;br&gt;
+&lt;em&gt;Book of Short Papers SIS 2018&lt;/em&gt;    &lt;br&gt;
+
+&lt;a href=&#34;https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Frumento, P. and Bottai M. (Contributed) (2018)    &lt;br&gt;
+Quantile Regression Coefficients Modeling: a Penalized Approach     &lt;br&gt;
+&lt;em&gt;Book of Short Papers SIS 2018&lt;/em&gt;      &lt;br&gt;
+
+&lt;a href=&#34;https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Dirigenti%20e%20istituzioni/ISTITUZIONI%20-%20HE%20-%20PDF%20-%20SIS%20V4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and Muggeo, V.M.R. (Poster) (2018)  &lt;br&gt;
+The induced smoothing for penalized quantile regression   &lt;br&gt;
+&lt;em&gt;Proceedings of the 33rd International Workshop on Statistical Modelling&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and Adelfio, G. (Invited) (2018)  &lt;br&gt;
+A new method for curves clustering in general dependence models     &lt;br&gt;
+&lt;em&gt;1st CRONOS Workshop on Multivariate Data Analysis and Software&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adelfio, G., Di Salvo, F. and &lt;strong&gt;Sottile, G.&lt;/strong&gt; (Contributed) (2017)  &lt;br&gt;
+Depth-based methods for clustering of functional data     &lt;br&gt;
+&lt;em&gt;Book of Abstracts of the TIES-GRASPA 2017 Conference&lt;/em&gt;     &lt;br&gt;
+
+&lt;a href=&#34;https://graspa.org/wp-content/uploads/2017/07/TIES-GRASPA2017_BOA.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and Adelfio, G. (Poster) (2017)   &lt;br&gt;
+A new approach for clustering of effects in quantile regression   &lt;br&gt;
+&lt;em&gt;Proceedings of 32st International Workshop of Statistical Modelling&lt;/em&gt;      &lt;br&gt;
+
+&lt;a href=&#34;https://iwsm2017.webhosting.rug.nl/IWSM_2017_V2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cilluffo, G., **Sottile, G., La Grutta, S. and Muggeo Vito M.R. (Contributed) (2017)  &lt;br&gt;
+Score inference in LASSO regression   &lt;br&gt;
+&lt;em&gt;Proceedings of 32st International Workshop of Statistical Modelling&lt;/em&gt;    &lt;br&gt;
+
+&lt;a href=&#34;https://iwsm2017.webhosting.rug.nl/IWSM_2017_V1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt; and V.M.R. Muggeo (Poster) (2016)   &lt;br&gt;
+Tuning parameter selection in LASSO regression  &lt;br&gt;
+&lt;em&gt;Proceedings of 31st International Workshop of Statistical Modelling&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sottile, G.&lt;/strong&gt;, Sardina, M.T., Mastrangelo, S., Tolone, M., Chiodi, M. and Portolano B. (Contributed) (2015)   &lt;br&gt;
+Identification of breed informative single nucleotide polymorphisms for assigning individual in Sicilian dairy sheep      &lt;br&gt;
+&lt;em&gt;Proceedings of XXI ASPA Congress&lt;/em&gt;.    &lt;br&gt;
+
+&lt;a href=&#34;https://www.tandfonline.com/doi/pdf/10.4081/ijas.2015.s1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

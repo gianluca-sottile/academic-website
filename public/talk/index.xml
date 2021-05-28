@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Gianluca Sottile</title>
+    <link>http://gianlucasottile.rbind.io/talk/</link>
+      <atom:link href="http://gianlucasottile.rbind.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gianlucasottile.rbind.io/images/icon_huc9e23e5333bea669f9b3539b46730f9f_35228_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://gianlucasottile.rbind.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>EMS 2019</title>
+      <link>http://gianlucasottile.rbind.io/talk/ems_2019/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/ems_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIS 2019</title>
+      <link>http://gianlucasottile.rbind.io/talk/sis_2019/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/sis_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIS 2019</title>
+      <link>http://gianlucasottile.rbind.io/talk/sis_2019_2/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/sis_2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIS 2018</title>
+      <link>http://gianlucasottile.rbind.io/talk/sis_2018/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/sis_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRONOS 2018</title>
+      <link>http://gianlucasottile.rbind.io/talk/cronos_2018/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/cronos_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IWSM 2017</title>
+      <link>http://gianlucasottile.rbind.io/talk/iwsm_2017/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/iwsm_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IWSM 2016</title>
+      <link>http://gianlucasottile.rbind.io/talk/iwsm_2016/</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://gianlucasottile.rbind.io/talk/iwsm_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
