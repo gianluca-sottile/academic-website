@@ -18,7 +18,7 @@ url_video: ""
 **Articles in refereed journals**   
 1. **Sottile, G.**, Francipane, A., Adelfio, G., Noto, L.V. (2021)   
 A PCA-based clustering algorithm for the identification of stratiform and convective precipitation at the event scale: an application to the sub-hourly precipitation of Sicily, Italy.    
-*Stochastic Environment and Research Risk Assessment*   
+*Stochastic Environmental Research and Risk Assessment*   
 [link](https://doi.org/10.1007/s00477-021-02028-7)   
 
 1. **Sottile, G.**, Ferrante, G., Cilluffo, G., Fasola, S., Malizia, V., Muggeo, V.M.R., Viegi, G., La Grutta, S. (2021)    
