@@ -60,7 +60,7 @@ Statistician, currently Assistant Professor (RTDa) at the [Department of Economi
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](...) A PCA-based clustering algorithm for the identification of stratiform and convective
+* [New Article!](https://link.springer.com/article/10.1007/s00477-021-02028-7) A PCA-based clustering algorithm for the identification of stratiform and convective
 precipitation at the event scale: an application to the sub-hourly precipitation of Sicily, Italy   
 (joint work with Adelfio, G. and Francipane, A. and Noto, V.)
 * [Upcoming Conference!](https://meetings3.sis-statistica.org/index.php/sis2021/sis2021) 50th Meeting of the Italian Statistical Society, that will be held in Pisa on June 21-25, 2021
