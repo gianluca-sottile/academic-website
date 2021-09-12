@@ -25,7 +25,7 @@ organizations:
   url: "https://www.unipa.it"
 - name: Member of the Italian Statistical Society
   url: "https://http://www.sis-statistica.it"
-role: Research fellow in Statistics <br> Doctor Europaeus
+role: Research Fellow in Statistics <br> Doctor Europaeus
 social:
 - icon: envelope
   icon_pack: fas
@@ -56,7 +56,7 @@ user_groups:
 ---
 
 
-Statistician, currently Research fellow (RTDa) at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
+Statistician, currently Research Fellow (RTDa) at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
