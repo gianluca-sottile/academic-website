@@ -67,5 +67,6 @@ Statistician, currently Research Fellow (RTDa) at the [Department of Economics, 
 * [New Article!](https://link.springer.com/article/10.1007/s00477-021-02028-7) A PCA-based clustering algorithm for the identification of stratiform and convective
 precipitation at the event scale: an application to the sub-hourly precipitation of Sicily, Italy   
 (joint work with Adelfio, G. and Francipane, A. and Noto, V.)
+
 * [Past Conference!](https://meetings3.sis-statistica.org/index.php/sis2021/sis2021) 50th Meeting of the Italian Statistical Society, that will be held in Pisa on June 21-25, 2021
 * [Past Conference!](https://datascience.unifi.it/cladag2021/) 13th Scientific Meeting Classification and Data Analysis Group, that will be held in Florence on September 9-11, 2021
