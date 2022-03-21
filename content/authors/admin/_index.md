@@ -60,6 +60,8 @@ Statistician, currently Research Fellow (RTDa) at the [Department of Economics, 
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Article!](https://www.sciencedirect.com/science/article/pii/S0167947322000512) Robust estimation and regression with parametric quantile functions   
+(joint work with Frumento, P.)
 * [New Article!](https://journals.sagepub.com/doi/abs/10.1177/1471082X211036517) Parametric estimation of non-crossing quantile functions   
 (joint work with Frumento, P.)
 * [New Article!](https://link.springer.com/article/10.1007/s00477-021-02028-7) A PCA-based clustering algorithm for the identification of stratiform and convective
