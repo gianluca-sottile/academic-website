@@ -46,8 +46,11 @@
   css_class = ""
 +++
 
-1. **islasso**: The Induced Smoothed Lasso (2021)  
+1. **islasso**: The Induced Smoothed Lasso (2022)  
 [link](https://cran.r-project.org/web/packages/islasso/index.html) |[paper](https://journals.sagepub.com/doi/abs/10.1177/0962280219842890) | [vignette](https://cran.r-project.org/web/packages/islasso/vignettes/islasso.pdf)  
+
+1. **Qest**: Quantile-Based Estimator (2022)     
+[link]([https://cran.r-project.org/web/packages/qrcmNP/index.html](https://cran.r-project.org/web/packages/Qest/index.html)) |[paper](https://www.sciencedirect.com/science/article/pii/S0167947322000512?via%3Dihub)
 
 1. **qrcmNP**: Nonlinear and Penalized Quantile Regression Coefficients Modeling (2021)     
 [link](https://cran.r-project.org/web/packages/qrcmNP/index.html) |[paper](https://journals.sagepub.com/doi/full/10.1177/1471082X19825523)
