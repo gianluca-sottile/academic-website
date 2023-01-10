@@ -30,17 +30,17 @@ A combined genome-wide approach identifies a new potential candidate marker asso
 1. **Sottile, G.**, Adelfio, G. (2019)      
 Clusters of effects curves in quantile regression models      
 *Computational Statistics*
-[link](https://link.springer.com/article/10.1007/s00180-018-0817-8)
-
-1. Mastrangelo, S., Criscione, A., **Sottile, G.**, Portolano, B., Marletta, D., Bordonaro, S. (2019)     
-Genome-wide analysis identifies potentially causative genes explaining the phenotypic variability in Pinzirita sheep    
-*Animal Genetics*     
-[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12763?af=R&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnimalGenetics+%28Animal+Genetics%29)
+[link](https://link.springer.com/article/10.1007/s00180-018-0817-8) | [code](https://cran.r-project.org/web/packages/clustEff/index.html)
 
 1. Di Gerlando, R., Sutera, A.M., Mastrangelo, S., Tolone, M., Portolano, B., **Sottile, G.**, Bagnato, A., Strillacci, M.G., Sardina, M.T. (2019)      
 Genome-wide association study between CNVs and milk production traits in Valle del Belice sheep     
 *PLoS ONE*
 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215204)
+
+1. Mastrangelo, S., Criscione, A., **Sottile, G.**, Portolano, B., Marletta, D., Bordonaro, S. (2019)     
+Genome-wide analysis identifies potentially causative genes explaining the phenotypic variability in Pinzirita sheep    
+*Animal Genetics*     
+[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12763?af=R&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AnimalGenetics+%28Animal+Genetics%29)
 
 1. Camarda, C., Torelli, P., Pipia, C., Azzarello, D., Battaglini, I., **Sottile, G.**, Cilluffo, G., Camarda, R. (2019)    
 Nociceptive Primitive Reflexes in Neurologically and Cognitively Healthy Aging Subjects   
@@ -56,13 +56,3 @@ An association analysis to identify genetic variants linked to asthma and rhino-
 Mild Parkinsonian signs in a hospital-based cohort of mild cognitive impairment types: A cross-sectional study    
 *Current Alzheimer Research*
 [link](https://www.eurekaselect.com/173886/article?tracking-code=4)
-
-1. Mastrangelo, S., **Sottile, G.**, Sutera, A.M., Di Gerlando, R., Tolone, M., Moscarelli, A., Sardina, M.T., Portolano, B. (2018)    
-Genome-wide association study reveals the locus responsible for microtia in Valle del Belice sheep breed      
-*Animal Genetics*   
-[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12719)
-
-1. **Sottile, G.**, Sardina, M.T., Mastrangelo, S., Di Gerlando, R., Tolone, M., Chiodi, M., Portolano, B. (2018)   
-Penalized classification for optimal statistical selection of markers from high-throughput genotyping: Application in sheep breeds    
-*Animal*    
-[link](https://www.sciencedirect.com/science/article/pii/S175173111700266X?via%3Dihub)

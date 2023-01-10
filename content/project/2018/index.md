@@ -16,7 +16,17 @@ url_slides: ""
 url_video: ""
 ---
 
-**Articles in refereed journals**  
+**Articles in refereed journals**
+1. Mastrangelo, S., **Sottile, G.**, Sutera, A.M., Di Gerlando, R., Tolone, M., Moscarelli, A., Sardina, M.T., Portolano, B. (2018)    
+Genome-wide association study reveals the locus responsible for microtia in Valle del Belice sheep breed      
+*Animal Genetics*   
+[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12719)
+
+1. **Sottile, G.**, Sardina, M.T., Mastrangelo, S., Di Gerlando, R., Tolone, M., Chiodi, M., Portolano, B. (2018)   
+Penalized classification for optimal statistical selection of markers from high-throughput genotyping: Application in sheep breeds    
+*Animal*    
+[link](https://www.sciencedirect.com/science/article/pii/S175173111700266X?via%3Dihub)
+  
 1. Mastrangelo, S., Ciani, E., Sardina, M.T., **Sottile, G.**, Pilla, F., Portolano, B., The Bi.Ov. Ita Consortium (2018)   
 Runs of homozygosity reveal genome-wide autozygosity in Italian sheep breeds    
 *Animal Genetics*       

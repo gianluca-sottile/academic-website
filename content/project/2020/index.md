@@ -37,30 +37,20 @@ A penalized approach to covariate selection through quantile regression coeffici
 *Statistical Modelling*     
 [link](https://journals.sagepub.com/doi/full/10.1177/1471082X19825523) | [code](https://cran.r-project.org/web/packages/qrcmNP/index.html)
 
-1. Cilluffo, G., **Sottile, G.**, La Grutta, S., Muggeo, V.M.R. (2020)    
-The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression    
-*Statistical Methods in Medical Research*   
-[link](https://journals.sagepub.com/doi/full/10.1177/0962280219842890) | [code](https://cran.r-project.org/web/packages/islasso/index.html)
-
-1. Cilluffo, G., **Sottile, G.**, La Grutta, S., Muggeo, V.M.R. (2020)    
-The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression    
-*Statistical Methods in Medical Research*   
-[link](https://journals.sagepub.com/doi/full/10.1177/0962280219842890) | [code](https://cran.r-project.org/web/packages/islasso/index.html)
-
 1. Mastrangelo, S., Cendron, F., **Sottile, G.**, Niero, G., Portolano, B., Biscarini, F., Cassandro, M. (2020)    
 Genome-wide analyses identifies known and new markers responsible of chicken plumage color      
 *Animals*     
 [link](https://www.mdpi.com/2076-2615/10/3/493)
 
+1. Cilluffo, G., **Sottile, G.**, La Grutta, S., Muggeo, V.M.R. (2020)    
+The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression    
+*Statistical Methods in Medical Research*   
+[link](https://journals.sagepub.com/doi/full/10.1177/0962280219842890) | [code](https://cran.r-project.org/web/packages/islasso/index.html)
+
 1. D’Alessandro, E., **Sottile, G.**, Sardina, M.T., Criscione, A., Bordonaro, S., Sutera, A.M., Zumbo, A., Portolano, B., Mastrangelo, S. (2020)   
 Genome-wide analyses reveal the regions involved in the phenotypic diversity in Sicilian pigs   
 *Animal Genetics*   
 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/age.12887)
-
-1. Boscaino, G., **Sottile, G.**, Adelfio, G. (2020)    
-Migration and students' performance: detecting geographical differences following a curves clustering approach    
-*Journal of Applied Statistics*   
-[link](https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1845624)
 
 1. Camarda, C., Torelli, P., Pipia, C., **Sottile, G.**, Cilluffo, G., Camarda, R. (2020)   
 APOE Genotypes and Brain Imaging Classes in Normal Cognition, Mild Cognitive Impairment, and Alzheimer's Disease: A Longitudinal Study    
