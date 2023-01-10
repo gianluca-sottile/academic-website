@@ -26,6 +26,14 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "2023"
+    tag = "2023"
+    
+  [[content.filter_button]]
+    name = "2022"
+    tag = "2022"
+
+  [[content.filter_button]]
     name = "2021"
     tag = "2021"
 
