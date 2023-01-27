@@ -18,4 +18,5 @@ links:
   url: https://github.com/gianluca-sottile/A-Novel-Statistical-Test-For-Differential-Expression-Analysis
 ---
 
-Conference proceeding
+*Abstract*
+Statistical tests of differential expression usually suffer from two problems. Firstly, their statistical power is often limited when applied to small and skewed data sets. Secondly, gene expression data are usually discretized by applying arbitrary criteria to limit the number of false positives. In this work, a new statistical test obtained from a convolution of multivariate hypergeometric distributions, the Hy-test, is proposed to address these issues. Hy-test has been carried out on transcriptomic data from breast and kidney cancer tissues, and it has been compared with other differential expression analysis methods. Hy-test allows implicit discretization of the expression profiles and is more selective in retrieving both differential expressed genes and terms of Gene Ontology. Hy-test can be adopted together with other tests to retrieve information that would remain hidden otherwise, e.g., terms of (1) cell cycle deregulation for breast cancer﻿ and (2) “programmed cell death” for kidney cancer.
