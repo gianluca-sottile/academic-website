@@ -11,7 +11,7 @@ publication_types:
 links:
 - name: Link
   url: https://link.springer.com/article/10.1007/s11222-020-09945-7
-  - name: Code
+- name: Code
   url: https://cran.r-project.org/web/packages/cglasso/index.html
 ---
 

@@ -10,7 +10,7 @@ publication_types:
 links:
 - name: Link
   url: https://journals.sagepub.com/doi/10.1177/1471082X211036517
-  - name: Code
+- name: Code
   url: https://cran.r-project.org/web/packages/qrcm/index.html
 ---
 

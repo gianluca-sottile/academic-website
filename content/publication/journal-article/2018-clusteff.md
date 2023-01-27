@@ -10,7 +10,7 @@ publication_types:
 links:
 - name: Link
   url: https://link.springer.com/article/10.1007/s00180-018-0817-8
-  - name: Code
+- name: Code
   url: https://cran.r-project.org/web/packages/clustEff/index.html
 ---
 

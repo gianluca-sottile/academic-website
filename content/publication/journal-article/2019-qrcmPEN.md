@@ -12,7 +12,7 @@ publication_types:
 links:
 - name: Link
   url: https://journals.sagepub.com/doi/full/10.1177/1471082X19825523
-  - name: Code
+- name: Code
   url: https://cran.r-project.org/web/packages/qrcmNP/index.html
 ---
 
