@@ -5,7 +5,7 @@ authors:
 - Wit, E.C.
 - Vinciotti, V.
 date: "2023-01-18T00:00:00Z"
-title: cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values
+title: cglasso An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values
 publication: '*Journal of Statistical Software*'  
 publication_types:
  - "2"
