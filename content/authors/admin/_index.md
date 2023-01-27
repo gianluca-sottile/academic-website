@@ -60,6 +60,8 @@ Statistician, currently Research Fellow (RTD-B) at the [Department of Economics,
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values  
+(joint work with Augugliaro, L, Wit, EC, & Vinciotti, V)
 * [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) The neglected status of the vermetid reefs in the Mediterranean Sea: A systematic map   
 (joint work with Picone, F, Fazio, C, & Chemello, R)
 * [New Article!](https://www.nature.com/articles/s41598-022-12246-w) A multivariate statistical test for differential expression analysis   
