@@ -22,5 +22,3 @@ Genome-wide scan for runs of homozygosity identifies potential candidate genes a
 *Genetics Selection Evolution*      
 [link](https://gsejournal.biomedcentral.com/articles/10.1186/s12711-017-0360-z)
 
-[Publications in monographs and refereed conference proceedings]({{< ref "/publications_full_list/index.md" >}}) 
-
