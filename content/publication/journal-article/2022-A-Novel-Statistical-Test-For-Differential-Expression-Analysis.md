@@ -6,7 +6,7 @@ authors:
 - Sciaraffa, N.
 - Arancio, W.
 - Coronnello, C.
-date: "2022-12"
+date: "2022-12-01T00:00:00Z"
 title: A multivariate statistical test for differential expression analysis
 publication: '*Scientific Reports*'  
 publication_types:
