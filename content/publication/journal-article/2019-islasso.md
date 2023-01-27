@@ -16,6 +16,8 @@ links:
   url: https://cran.r-project.org/web/packages/islasso/index.html
 ---
 
-*Abstract*
+<font size="5"> <center><b> Abstract </b> </center></font>
 
+<p style="text-align: justify;">
 This paper focuses on hypothesis testing in lasso regression, when one is interested in judging statistical significance for the regression coefficients in the regression equation involving a lot of covariates. To get reliable p-values, we propose a new lasso-type estimator relying on the idea of induced smoothing which allows to obtain appropriate covariance matrix and Wald statistic relatively easily. Some simulation experiments reveal that our approach exhibits good performance when contrasted with the recent inferential tools in the lasso framework. Two real data analyses are presented to illustrate the proposed framework in practice.
+</p>
