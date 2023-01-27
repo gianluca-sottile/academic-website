@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "indie_flower"
+font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -97,7 +97,7 @@ directions = "Enter Building 13 and take the stairs to Office 106 on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 9:00 to 13:00"]
+office_hours = ["Monday to Friday 9:00 to 16:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

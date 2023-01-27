@@ -6,12 +6,12 @@
 [[main]]
   name = "Experience"
   url = "#experience_andrea"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#projects"
-  weight = 30
+  url = "#publications"
+  weight = 20
 
 [[main]]
   name = "Software"
