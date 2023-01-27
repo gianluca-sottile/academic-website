@@ -7,7 +7,8 @@ authors:
 - Arancio, W.
 - Coronnello, C.
 date: "2022-12"
-title: A multivariate statistical test for differential expression analysis: '*Scientific Reports*'  
+title: A multivariate statistical test for differential expression analysis
+publication: '*Scientific Reports*'  
 publication_types:
  - "2"
 links:
