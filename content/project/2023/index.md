@@ -19,4 +19,9 @@ url_video: ""
 1. Augugliaro, L., **Sottile, G.**, Wit, E.C., Vinciotti, V. (2023)   
 cglasso: An R package for Conditional Graphical Lasso Inference with Censored and Missing Values   
 *Journal of Statistical Software* (to appear)
-[link]() | [code](https://cran.r-project.org/web/packages/cglasso/index.html)
+[link](https://www.jstatsoft.org/article/view/v105i01) | [code](https://cran.r-project.org/web/packages/cglasso/index.html)
+
+1. Muggeo, V., **Sottile, G.**, Cilluffo, G. (2023)   
+Joint modelling of non-crossing additive quantile regression via constrained B-spline varying coefficients 
+*Statistical Modelling*
+[link](https://journals.sagepub.com/doi/10.1177/1471082X231181734?icid=int.sj-abstract.citing-articles.7) | [code]()
