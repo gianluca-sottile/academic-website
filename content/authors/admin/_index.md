@@ -60,16 +60,9 @@ Statistician, currently Research Fellow (RTD-B) at the [Department of Economics,
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Article!](https://journals.sagepub.com/doi/10.1177/1471082X231181734?icid=int.sj-abstract.citing-articles.7) Joint modelling of non-crossing additive quantile regression via constrained B-spline varying coefficients  
+(joint work with Muggeo, V, & Cilluffo, G)
 * [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values  
 (joint work with Augugliaro, L, Wit, EC, & Vinciotti, V)
-* [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) The neglected status of the vermetid reefs in the Mediterranean Sea: A systematic map   
-(joint work with Picone, F, Fazio, C, & Chemello, R)
-* [New Article!](https://www.nature.com/articles/s41598-022-12246-w) A multivariate statistical test for differential expression analysis   
-(joint work with Tumnello, M, Bertolazzi, G, Sciaraffa, N, Arancio, W, & Coronnello, C)
-* [New Article!](https://www.sciencedirect.com/science/article/pii/S0167947322000512) Robust estimation and regression with parametric quantile functions   
-(joint work with Frumento, P)
 
-
-* [Future Conference!](https://sites.google.com/universitadipavia.it/sdsconference-pavia/home?authuser=0) Statistics for Data Science and Artificial Intelligence, that will be held in Pavia on April 27-28, 2023
-* [Future Conference!](https://meetings3.sis-statistica.org/index.php/ancona/ancona) SIS 2023 - Statistical Learning, Sustainability and Impact Evaluation, that will be held in Ancona on June 21-23, 2023
-* [Future Conference!](https://meetings3.sis-statistica.org/index.php/graspa2023/2023) GRASPA 2023 - groupfor Environmental Statistics, that will be held in Palermo on July 10-11, 2023
+* [Future Conference!](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024) Statistics for Data Science, that will be held in Palermo on April 11-12, 2023
