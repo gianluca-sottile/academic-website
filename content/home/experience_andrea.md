@@ -45,6 +45,24 @@
   # CSS class.
   css_class = ""
 
+[[experience]]
+    title = "Teaching Assistant"
+    company = "University of Palermo"
+    company_url = "https://www.unipa.it"
+    location = "Department of Economics, Business and Statistics"
+    date_start = "2023-09-26"
+    date_end = ""
+    description = "Course in Optimization for Statistical and Machine Learning (6CFU) at the Master Degree in Statistics and Data Science"
+
+ [[experience]]
+    title = "Tenure-Track Assistant Professor"
+    company = "University of Palermo"
+    company_url = "https://www.unipa.it"
+    location = "Department of Economics, Business and Statistics"
+    date_start = "2022-08-02"
+    date_end = ""
+    description = ""
+
   [[experience]]
     title = "Teaching Assistant"
     company = "University of Palermo"
@@ -52,7 +70,7 @@
     location = "Department of Economics, Business and Statistics"
     date_start = "2021-03-01"
     date_end = ""
-    description = "BSc course in Financial Markets Laboratory (3CFU)"
+    description = "Course in Financial Markets Laboratory (3CFU) at the Master Degree in Statistics and Data Science"
 
   [[experience]]
     title = "Assistant Professor"
@@ -60,7 +78,7 @@
     company_url = "https://www.unipa.it"
     location = "Department of Economics, Business and Statistics"
     date_start = "2019-07-30"
-    date_end = ""
+    date_end = "2022-07-29"
     description = ""
 
   [[experience]]
