@@ -56,7 +56,7 @@ user_groups:
 ---
 
 
-Statistician, currently Research Fellow in Tenure-Track (RTD-B) at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
+Statistician, currently Assistant Professor in Tenure-Track (RTD-B) at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
