@@ -65,4 +65,4 @@ Statistician, currently Research Fellow (RTD-B) at the [Department of Economics,
 * [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values  
 (joint work with Augugliaro, L, Wit, EC, & Vinciotti, V)
 
-* [Future Conference!](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024) Statistics for Data Science, that will be held in Palermo on April 11-12, 2023
+* [Future Conference!](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024) Statistics for Data Science, that will be held in Palermo on April 11-12, 2024
