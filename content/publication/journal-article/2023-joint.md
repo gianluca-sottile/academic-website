@@ -11,8 +11,8 @@ publication_types:
 links:
 - name: Link
   url: https://journals.sagepub.com/doi/10.1177/1471082X231181734?icid=int.sj-abstract.citing-articles.7
-- name: Code
-  url: https://cran.r-project.org/web/packages/cglasso/index.html
+#- name: Code
+#  url: https://cran.r-project.org/web/packages/cglasso/index.html
 ---
 
 <font size="5"> <center><b> Abstract </b> </center></font>
