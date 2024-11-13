@@ -60,9 +60,9 @@ Statistician, currently Assistant Professor in Tenure-Track (RTD-B) at the [Depa
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](https://journals.sagepub.com/doi/10.1177/1471082X231181734?icid=int.sj-abstract.citing-articles.7) Joint modelling of non-crossing additive quantile regression via constrained B-spline varying coefficients  
-(joint work with Muggeo, V, & Cilluffo, G)
-* [New Article!](https://www.sciencedirect.com/science/article/pii/S1470160X22008317) cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values  
-(joint work with Augugliaro, L, Wit, EC, & Vinciotti, V)
+* [New Article!](https://dx.doi.org/10.1093/jrsssc/qlae052) Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
+(joint work with Augugliaro, L, Vinciotti, V & et al.)
+* [New Article!](https://link.springer.com/article/10.1007/s10651-024-00610-0) A comprehensive environmental exposure indicator and respiratory health in asthmatic children: a case study - in *Environmental and Ecological Statistics*
+(joint work with Cilluffo, G & et al.)
 
 * [Future Conference!](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024) Statistics for Data Science, that will be held in Palermo on April 11-12, 2024
