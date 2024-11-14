@@ -65,4 +65,4 @@ Statistician, currently Assistant Professor in Tenure-Track (RTD-B) at the [Depa
 * [New Article!](https://link.springer.com/article/10.1007/s10651-024-00610-0) A comprehensive environmental exposure indicator and respiratory health in asthmatic children: a case study - in *Environmental and Ecological Statistics*
 (joint work with Cilluffo, G & et al.)
 
-* [Future Conference!](https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024) Statistics for Data Science, that will be held in Palermo on April 11-12, 2024
+* [Future Conference!](https://sis2025.sis-statistica.it/) SIS 2025 - Statistics for innovation, that will be held in Genoa on June 16-18, 2025
