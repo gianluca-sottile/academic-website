@@ -17,15 +17,18 @@ email: ""
 interests:
 - Variable selection
 - Statistical learning
+- Graphical models
+- Functional data analysis
 - Quantile regression
 - Robust statistics
+- Missing data
 - Model-based clustering and classification
 organizations:
 - name: Università degli Studi di Palermo
   url: "https://www.unipa.it"
 - name: Member of the Italian Statistical Society
   url: "https://http://www.sis-statistica.it"
-role: Associate Professor in Statistics <br> Doctor Europaeus
+role: Associate Professor in Statistics <br> PhD (Doctor Europaeus)
 social:
 - icon: envelope
   icon_pack: fas
@@ -56,7 +59,7 @@ user_groups:
 ---
 
 
-Statistician, currently Associate Professir at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, research fellow and postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
+Statistician, currently Associate Professor at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, research fellow and postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
