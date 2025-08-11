@@ -47,13 +47,13 @@
 +++
 
 1. **islasso**: The Induced Smoothed Lasso  
-[link](https://cran.r-project.org/web/packages/islasso/index.html) |[paper](https://journals.sagepub.com/doi/abs/10.1177/0962280219842890) | [vignette](https://cran.r-project.org/web/packages/islasso/vignettes/islasso.pdf)  
+        [link](https://cran.r-project.org/web/packages/islasso/index.html) | [paper](https://journals.sagepub.com/doi/abs/10.1177/0962280219842890) | [github](https://github.com/gianluca-sottile/islasso)
 
 1. **Qest**: Quantile-Based Estimator     
-[link]([https://cran.r-project.org/web/packages/qrcmNP/index.html](https://cran.r-project.org/web/packages/Qest/index.html)) |[paper](https://www.sciencedirect.com/science/article/pii/S0167947322000512?via%3Dihub)
+[link]([https://cran.r-project.org/web/packages/qrcmNP/index.html](https://cran.r-project.org/web/packages/Qest/index.html)) | [paper](https://www.sciencedirect.com/science/article/pii/S0167947322000512?via%3Dihub)
 
 1. **qrcmNP**: Nonlinear and Penalized Quantile Regression Coefficients Modeling     
-[link](https://cran.r-project.org/web/packages/qrcmNP/index.html) |[paper](https://journals.sagepub.com/doi/full/10.1177/1471082X19825523)
+[link](https://cran.r-project.org/web/packages/qrcmNP/index.html) | [paper](https://journals.sagepub.com/doi/full/10.1177/1471082X19825523)
 
 1. **clustEff**: Clusters of Effects Curves in Quantile Regression Models    
-[link](https://cran.r-project.org/web/packages/clustEff/index.html) |[paper](https://link.springer.com/article/10.1007/s00180-018-0817-8)
+[link](https://cran.r-project.org/web/packages/clustEff/index.html) | [paper](https://link.springer.com/article/10.1007/s00180-018-0817-8)
