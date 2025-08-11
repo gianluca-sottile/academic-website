@@ -63,9 +63,11 @@ Statistician, currently Associate Professor at the [Department of Economics, Bus
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
+* [New Article!](to be appeared) Functional Gaussian Graphical Regression Models For Air Quality Data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
+(joint work with Fici R, Wit E & Augugliaro, L)
 * [New Article!](https://dx.doi.org/10.1093/jrsssc/qlae052) Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
 (joint work with Augugliaro, L, Vinciotti, V & et al.)
 * [New Article!](https://link.springer.com/article/10.1007/s10651-024-00610-0) A comprehensive environmental exposure indicator and respiratory health in asthmatic children: a case study - in *Environmental and Ecological Statistics*
 (joint work with Cilluffo, G & et al.)
 
-* [Future Conference!](https://sis2025.sis-statistica.it/) SIS 2025 - Statistics for innovation, that will be held in Genoa on June 16-18, 2025
+* [Future Conference!](https://sites.google.com/view/ims-icsds2025/) ICSDS 2025 - IMS International Conference on Statistics and Data Science, that will be held in Seville (Spain) on December 15-18, 2025
