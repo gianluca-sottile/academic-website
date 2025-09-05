@@ -63,7 +63,7 @@ Statistician, currently Associate Professor at the [Department of Economics, Bus
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
-* [New Article!](to be appeared) Functional Gaussian Graphical Regression Models For Air Quality Data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
+* [New Article!](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlaf042/8239248) Functional Gaussian Graphical Regression Models For Air Quality Data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
 (joint work with Fici R, Wit E & Augugliaro, L)
 * [New Article!](https://dx.doi.org/10.1093/jrsssc/qlae052) Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data - *Journal of the Royal Statistical Society Series C: Applied Statistics*
 (joint work with Augugliaro, L, Vinciotti, V & et al.)
