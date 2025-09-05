@@ -26,8 +26,12 @@ interests:
 organizations:
 - name: Università degli Studi di Palermo
   url: "https://www.unipa.it"
+- name: Statistica e Data Science (LM-82/LM-DATA)
+  url: "https://www.unipa.it/dipartimenti/seas/cds/statisticaedatascience2235"
+- name: Economia e Amministrazione Aziendale (L18)
+  url: "https://www.unipa.it/dipartimenti/seas/cds/statisticaedatascience2235"
 - name: Member of the Italian Statistical Society
-  url: "https://http://www.sis-statistica.it"
+  url: "http://www.sis-statistica.it"
 role: Associate Professor in Statistics <br> PhD (Doctor Europaeus)
 social:
 - icon: envelope
