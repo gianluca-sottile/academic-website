@@ -58,8 +58,7 @@ user_groups:
 - Visitors
 ---
 
-
-Statistician, currently Associate Professor at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas) of [Università degli Studi di Palermo](https://www.unipa.it). Previously, research fellow and postdoctoral researcher at University of Palermo, working on variable selection models and robust statistics. My research interests are related to the area of applied statistical learning, with particular focus on robust models. I am a passionate [<tt>R</tt>](https://cran.r-project.org) user.
+Statistician, currently Associate Professor at the [Department of Economics, Business and Statistics](https://www.unipa.it/dipartimenti/seas), [Università degli Studi di Palermo](https://www.unipa.it). Previously research fellow and postdoctoral researcher at the same institution, working on variable selection models and robust statistics. My research focuses on applied statistical learning, with particular attention to robust models. I am also an enthusiastic [<tt>R</tt>](https://cran.r-project.org) user.
 
 <font size="5"> <center><b> Breaking news </b> </center></font>
 
