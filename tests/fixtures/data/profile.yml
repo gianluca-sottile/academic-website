@@ -1,0 +1,6 @@
+name: Test Person
+role: {en: Associate Professor, it: Professore Associato}
+research_themes:
+  - id: sparse
+    label: {en: Sparse models, it: Modelli sparsi}
+    openalex_keywords: [lasso, sparse]

@@ -1,0 +1,24 @@
+{% extends "page.html" %}
+{% set page_title = t.nav_publications %}
+{% block intro %}<p class="muted">{{ t.pubs_updated }} {{ site.publications_meta.updated }}. <a href="https://orcid.org/0000-0001-9347-7251" rel="noopener">ORCID</a>, <a href="https://scholar.google.com/citations?user=Kr8_P5EAAAAJ" rel="noopener">Google Scholar</a>.</p>{% endblock %}
+{% block content %}
+<section class="section pubs-page">
+  <form class="filters" role="search" aria-label="{{ t.filter_label }}" hidden>
+    <label class="search"><span class="sr">{{ t.filter_search }}</span><input type="search" name="q" placeholder="{{ t.filter_search }}" autocomplete="off"></label>
+    <label><span class="sr">{{ t.filter_type }}</span><select name="type"><option value="">{{ t.filter_all_types }}</option><option value="article">{{ t.type_article }}</option><option value="proceedings">{{ t.type_proceedings }}</option><option value="chapter">{{ t.type_chapter }}</option></select></label>
+    <fieldset class="theme-filter"><legend class="sr">{{ t.filter_theme }}</legend>
+      <button type="button" data-theme-id="" aria-pressed="true">{{ t.filter_all_themes }}</button>
+      {% for th in site.profile.research_themes %}<button type="button" data-theme-id="{{ th.id }}" aria-pressed="false">{{ m.T(th.label) }}</button>{% endfor %}
+    </fieldset>
+    <p class="count" aria-live="polite"><span data-shown>{{ site.publications|length }}</span> / {{ site.publications|length }}</p>
+  </form>
+  {% for year, items in site.publications|groupby('year')|reverse %}
+  <div class="year-group" data-year="{{ year }}">
+    <h2 class="year">{{ year }}</h2>
+    <ul class="pub-list plain">{% for p in items %}{{ m.pub(p) }}{% endfor %}</ul>
+  </div>
+  {% endfor %}
+  <p class="empty" hidden>{{ t.filter_empty }}</p>
+</section>
+{% endblock %}
+{% block scripts %}<script src="/assets/js/pubs.js" defer></script>{% endblock %}

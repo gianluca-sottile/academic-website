@@ -1,0 +1,33 @@
+- id: islasso
+  name: islasso
+  repo: gianluca-sottile/islasso
+  cran: islasso
+  homepage: https://gianluca-sottile.github.io/islasso/
+  paper_doi: 10.1177/0962280219842890
+  summary:
+    en: The induced smoothed lasso — hypothesis testing and confidence intervals in high-dimensional (generalized) linear models.
+    it: Il lasso a smoothing indotto — test d'ipotesi e intervalli di confidenza in modelli lineari (generalizzati) ad alta dimensionalità.
+- id: qest
+  name: Qest
+  repo: gianluca-sottile/Qest
+  cran: Qest
+  paper_doi: 10.1016/j.csda.2022.107471
+  summary:
+    en: Quantile-based estimators — robust estimation of parametric models through their quantile function, with censored and truncated data.
+    it: Stimatori basati sui quantili — stima robusta di modelli parametrici tramite la funzione quantile, anche con dati censurati e troncati.
+- id: qrcmnp
+  name: qrcmNP
+  repo: gianluca-sottile/qrcmNP
+  cran: qrcmNP
+  paper_doi: 10.1177/1471082x19825523
+  summary:
+    en: Nonlinear and penalized (lasso, group lasso) quantile regression coefficients modelling.
+    it: Modellazione non lineare e penalizzata (lasso, group lasso) dei coefficienti di regressione quantile.
+- id: clusteff
+  name: clustEff
+  repo: gianluca-sottile/clustEff
+  cran: clustEff
+  paper_doi: 10.1007/s00180-018-0817-8
+  summary:
+    en: Clustering of effect curves from quantile regression coefficient models.
+    it: Clustering delle curve degli effetti nei modelli per i coefficienti di regressione quantile.

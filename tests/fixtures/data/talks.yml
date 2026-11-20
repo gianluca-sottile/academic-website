@@ -1,0 +1,7 @@
+- id: t1
+  date: 2019-06-01
+  title: A talk
+  event: SIS 2019
+  place: Milan
+  kind: talk
+  files: []

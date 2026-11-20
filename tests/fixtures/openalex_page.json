@@ -1,0 +1,17 @@
+{"meta": {"count": 7, "next_cursor": null},
+ "results": [
+  {"doi": "https://doi.org/10.1177/0962280219842890", "title": "The Induced Smoothed lasso: A practical framework", "publication_year": 2019, "type": "article", "cited_by_count": 36,
+   "primary_location": {"landing_page_url": "https://doi.org/10.1177/0962280219842890", "source": {"display_name": "Statistical Methods in Medical Research"}},
+   "open_access": {"oa_url": null}, "primary_topic": {"display_name": "Sparse regression and lasso methods"},
+   "authorships": [{"author": {"display_name": "Giovanna Cilluffo", "orcid": null}}, {"author": {"display_name": "Gianluca Sottile", "orcid": "https://orcid.org/0000-0001-9347-7251"}}]},
+  {"doi": "https://doi.org/10.1234/arxiv-like", "title": "The induced smoothed LASSO: a practical framework", "publication_year": 2018, "type": "preprint", "cited_by_count": 2,
+   "primary_location": {"source": {"display_name": "arXiv"}}, "open_access": {"oa_url": "https://arxiv.org/x"}, "authorships": []},
+  {"doi": "https://doi.org/10.32614/cran.package.islasso", "title": "islasso: The Induced Smoothed Lasso", "publication_year": 2019, "type": "dataset", "cited_by_count": 1, "primary_location": null, "authorships": []},
+  {"doi": "https://doi.org/10.6084/m9.figshare.5598133", "title": "MOESM3 of Something", "publication_year": 2017, "type": "article", "cited_by_count": 0, "primary_location": null, "authorships": []},
+  {"doi": null, "title": "A <i>new</i> approach &amp; test with $\\ell_1$", "publication_year": 2017, "type": "book-chapter", "cited_by_count": 1, "primary_location": null, "authorships": [{"author": {"display_name": "G. Sottile", "orcid": null}}]},
+  {"doi": null, "title": "Quantile Regression Coefficients Modeling: a Penalized Approach", "publication_year": 2018, "type": "article", "cited_by_count": 0, "primary_location": null, "authorships": []},
+  {"doi": null, "title": "Quantile regression coefficients modeling: a penalized approach", "publication_year": 2018, "type": "book-chapter", "cited_by_count": 0, "primary_location": null, "authorships": []},
+  {"doi": "https://doi.org/10.1093/jrsssc/qlaf042", "title": "Functional Gaussian graphical regression models for air quality data", "publication_year": 2025, "type": "article", "cited_by_count": 2,
+   "primary_location": {"source": {"display_name": "Journal of the Royal Statistical Society Series C"}}, "open_access": {"oa_url": "https://oa.example/x.pdf"}, "authorships": []},
+  {"doi": "https://doi.org/10.5194/egusphere-egu2020-18518", "title": "An EGU abstract", "publication_year": 2020, "type": "conference-abstract", "cited_by_count": 2, "primary_location": null, "authorships": []}
+ ]}

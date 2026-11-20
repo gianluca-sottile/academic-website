@@ -1,0 +1,61 @@
+- id: sml
+  title: Statistical Machine Learning
+  programme: {en: "MSc Statistics and Data Science (LM-82)", it: "LM Statistica e Data Science (LM-82)"}
+  level: MSc
+  language: EN
+  ects: 6
+  hours: 42
+  years: 2023/24 –
+  note: {en: "Formerly Optimization for Statistical and Machine Learning", it: "In precedenza Optimization for Statistical and Machine Learning"}
+  current: true
+  summary:
+    en: From regularised regression to trees, ensembles, SVMs, neural networks and clustering — 21 units with R labs (tidymodels, ranger, keras3).
+    it: Dalla regressione regolarizzata ad alberi, ensemble, SVM, reti neurali e clustering — 21 unità con laboratori in R (tidymodels, ranger, keras3).
+- id: statistica-l18
+  title: Statistica
+  programme: {en: "BSc Business Economics and Administration (L-18)", it: "Economia e Amministrazione Aziendale (L-18)"}
+  level: BSc
+  language: IT
+  ects: 8
+  years: 2024/25 –
+  current: true
+  summary:
+    en: Introductory statistics — descriptive statistics, bivariate analysis and linear regression, with annotated formula sheets.
+    it: Statistica di base — statistica descrittiva, analisi bivariata e regressione lineare, con formulari riassuntivi commentati.
+- id: financial-lab
+  title: {en: Financial Markets Laboratory, it: Laboratorio di Mercati Finanziari}
+  programme: {en: "MSc Statistics and Data Science (LM-82)", it: "LM Statistica e Data Science (LM-82)"}
+  level: MSc
+  language: IT
+  ects: 3
+  years: 2020/21 –
+  current: false
+- id: stat-architecture
+  title: Statistica
+  programme: {en: "BSc — Department of Architecture", it: "Corso di laurea — Dipartimento di Architettura"}
+  level: BSc
+  language: IT
+  ects: 6
+  years: 2019/20
+  current: false
+- id: stat-biology
+  title: Statistica
+  programme: {en: "BSc — Department of Earth and Marine Sciences (DiSTeM)", it: "Corso di laurea — Dipartimento DiSTeM"}
+  level: BSc
+  language: IT
+  ects: 6
+  years: 2018/19
+  current: false
+- id: r-course
+  title: From Data to Models with R
+  programme: {en: Open online course, it: Corso online aperto}
+  level: open
+  language: EN/IT
+  years: 2026
+  current: true
+  summary:
+    en: A free, bilingual course in statistics and machine learning with R — 67 lessons on 4 levels, 340+ exercises with solutions, 130+ runnable in the browser.
+    it: Corso gratuito e bilingue di statistica e machine learning con R — 67 lezioni su 4 livelli, oltre 340 esercizi con soluzioni, più di 130 eseguibili nel browser.
+  links:
+    - {label: {en: Open the course, it: Apri il corso}, url: "https://gianluca-sottile.github.io/An-R-Tutorial-for-Beginners/"}
+    - {label: GitHub, url: "https://github.com/gianluca-sottile/An-R-Tutorial-for-Beginners"}

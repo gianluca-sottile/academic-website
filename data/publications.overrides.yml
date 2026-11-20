@@ -1,0 +1,36 @@
+# Correzioni manuali all'elenco automatico (chiave = DOI in minuscolo, oppure id "oa-..." per voci senza DOI)
+# hide:      voci da non mostrare
+# selected:  voci in evidenza nella home (5-6)
+# themes:    temi assegnati a mano (sostituiscono quelli suggeriti)
+# links:     link extra (codice, pacchetto, slide)
+# extra:     pubblicazioni mancanti su OpenAlex/ORCID
+hide: []
+selected:
+  - 10.1093/jrsssc/qlaf042
+  - 10.1093/jrsssc/qlae052
+  - 10.18637/jss.v105.i01
+  - 10.1177/0962280219842890
+  - 10.1016/j.csda.2022.107471
+  - 10.1177/1471082x231181734
+themes: {}
+links:
+  10.1177/0962280219842890:
+    - {label: islasso, url: "https://github.com/gianluca-sottile/islasso"}
+  10.1016/j.csda.2022.107471:
+    - {label: Qest, url: "https://github.com/gianluca-sottile/Qest"}
+  10.1177/1471082x19825523:
+    - {label: qrcmNP, url: "https://cran.r-project.org/package=qrcmNP"}
+  10.1007/s00180-018-0817-8:
+    - {label: clustEff, url: "https://cran.r-project.org/package=clustEff"}
+  10.1093/jrsssc/qlaf042:
+    - {label: Code, url: "https://github.com/gianluca-sottile/Functional-Gaussian-Graphical-Regression-Models"}
+  10.1093/jrsssc/qlae052:
+    - {label: Code, url: "https://github.com/gianluca-sottile/Hematopoiesis-network-inference-from-RT-qPCR-data"}
+  10.1038/s41598-022-12246-w:
+    - {label: Code, url: "https://github.com/gianluca-sottile/A-Novel-Statistical-Test-For-Differential-Expression-Analysis"}
+  10.18637/jss.v105.i01:
+    - {label: cglasso, url: "https://cran.r-project.org/package=cglasso"}
+extra: []
+# Lavori in corso da non mostrare finché non sono pubblicati (espressioni sul titolo)
+exclude_titles:
+  - "Partially Observed Multivariate Functional"

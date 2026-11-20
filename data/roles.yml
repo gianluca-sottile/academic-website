@@ -1,0 +1,54 @@
+- id: assoc-prof
+  title: {en: Associate Professor of Statistics (SECS-S/01), it: Professore Associato di Statistica (SECS-S/01)}
+  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  start: 2025-08
+  kind: position
+- id: rtdb
+  title: {en: Tenure-track Assistant Professor (RTD-B), it: Ricercatore a tempo determinato di tipo B}
+  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  start: 2022-08
+  end: 2025-07
+  kind: position
+- id: rtda
+  title: {en: "Assistant Professor (RTD-A, PON-AIM)", it: "Ricercatore a tempo determinato di tipo A (PON-AIM)"}
+  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  start: 2019-07
+  end: 2022-07
+  kind: position
+- id: postdoc
+  title: {en: Postdoctoral Research Fellow, it: Assegnista di ricerca}
+  org: {en: University of Palermo — Depts. SEAS and Agricultural and Forestry Sciences, it: Università di Palermo — Dip. SEAS e Scienze Agrarie e Forestali}
+  start: 2018-03
+  end: 2019-02
+  description: {en: Statistical selection of SNPs for traceability and authentication of PDO dairy products from Sicilian sheep breeds., it: Selezione statistica di SNP per la tracciabilità e l'autenticazione di prodotti lattiero-caseari DOP da razze ovine siciliane.}
+  kind: position
+- id: karolinska
+  title: {en: Visiting Researcher, it: Visiting researcher}
+  org: Karolinska Institutet — Institute of Environmental Medicine
+  place: Stockholm
+  start: 2016-09
+  end: 2016-12
+  description: {en: Visiting period during the PhD under the supervision of Prof. M. Bottai., it: Periodo di ricerca durante il dottorato con il Prof. M. Bottai.}
+  kind: visiting
+- id: phd
+  title: {en: "PhD in Statistics — Doctor Europaeus", it: "Dottorato di ricerca in Statistica — Doctor Europaeus"}
+  org: {en: University of Palermo, it: Università di Palermo}
+  start: 2015
+  end: 2017
+  description: {en: "Thesis: Penalized regression and clustering in high dimensional data (supervisor Prof. M. Chiodi).", it: "Tesi: Penalized regression and clustering in high dimensional data (relatore Prof. M. Chiodi)."}
+  kind: education
+- id: msc
+  title: {en: MSc in Statistical Sciences (cum laude), it: Laurea magistrale in Scienze Statistiche (con lode)}
+  org: {en: University of Palermo, it: Università di Palermo}
+  start: 2014
+  kind: education
+- id: bsc
+  title: {en: BSc in Applied Mathematics, it: Laurea in Matematica Applicata}
+  org: {en: University of Palermo, it: Università di Palermo}
+  start: 2012
+  kind: education
+- id: sis
+  title: {en: Member, it: Socio}
+  org: {en: Italian Statistical Society (SIS), it: Società Italiana di Statistica (SIS)}
+  start: 2016
+  kind: membership

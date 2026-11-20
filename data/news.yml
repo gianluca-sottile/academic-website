@@ -1,0 +1,29 @@
+- id: jrssc-2025
+  date: 2025-06-01
+  text:
+    en: "New paper in JRSS Series C: Functional Gaussian graphical regression models for air quality data (with R. Fici, E. Wit and L. Augugliaro)."
+    it: "Nuovo articolo su JRSS Series C: Functional Gaussian graphical regression models for air quality data (con R. Fici, E. Wit e L. Augugliaro)."
+  link: https://doi.org/10.1093/jrsssc/qlaf042
+- id: jrssc-2024
+  date: 2024-09-01
+  text:
+    en: "New paper in JRSS Series C: Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data."
+    it: "Nuovo articolo su JRSS Series C: Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data."
+  link: https://doi.org/10.1093/jrsssc/qlae052
+- id: eest-2024
+  date: 2024-06-01
+  text:
+    en: "New paper in Environmental and Ecological Statistics on an environmental exposure indicator and respiratory health in asthmatic children."
+    it: "Nuovo articolo su Environmental and Ecological Statistics su un indicatore di esposizione ambientale e salute respiratoria nei bambini asmatici."
+  link: https://doi.org/10.1007/s10651-024-00610-0
+- id: icsds-2025
+  date: 2025-12-15
+  text:
+    en: ICSDS 2025 — IMS International Conference on Statistics and Data Science, Seville (Spain), 15–18 December 2025.
+    it: ICSDS 2025 — IMS International Conference on Statistics and Data Science, Siviglia (Spagna), 15–18 dicembre 2025.
+  link: https://sites.google.com/view/ims-icsds2025/
+- id: cran-updates-2026
+  date: 2026-11-03
+  text:
+    en: "New major releases on CRAN: Qest 2.0.0, qrcmNP 1.0.0 and clustEff 1.0.0."
+    it: "Nuove versioni su CRAN: Qest 2.0.0, qrcmNP 1.0.0 e clustEff 1.0.0."

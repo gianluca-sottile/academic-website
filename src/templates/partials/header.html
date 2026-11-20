@@ -1,0 +1,16 @@
+{% set home = url_for('index', lang) %}
+<header class="site-header">
+  <a class="brand" href="{{ home }}" aria-label="Gianluca Sottile — home">{% include "partials/wordmark.svg" %}</a>
+  <nav class="nav" aria-label="{{ 'Main' if lang == 'en' else 'Principale' }}">
+{% if present.projects %}    <a href="{{ home }}#projects">{{ t.nav_projects }}</a>{% endif %}
+{% if present.teaching %}    <a href="{{ home }}#teaching">{{ t.nav_teaching }}</a>{% endif %}
+    <a href="{{ url_for('publications', lang) }}">{{ t.nav_publications }}</a>
+{% if present.software %}    <a href="{{ home }}#software">{{ t.nav_software }}</a>{% endif %}
+{% if present.career %}    <a href="{{ home }}#career">{{ t.nav_career }}</a>{% endif %}
+    <a href="{{ home }}#contact">{{ t.nav_contact }}</a>
+  </nav>
+  <div class="tools">
+    <a class="lang-switch" href="{{ url_for(page, 'it' if lang == 'en' else 'en') }}" hreflang="{{ 'it' if lang == 'en' else 'en' }}" lang="{{ 'it' if lang == 'en' else 'en' }}">{{ 'IT' if lang == 'en' else 'EN' }}<span class="sr">{{ t.switch_to }}</span></a>
+    <button class="theme-toggle" type="button" aria-label="{{ t.theme_toggle }}"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><path d="M12 7a5 5 0 0 0 0 10z" class="half"/></svg></button>
+  </div>
+</header>

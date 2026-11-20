@@ -1,0 +1,25 @@
+{% if site.projects %}
+<section id="projects" class="section projects">
+{% if not in_page %}  <h2>{{ t.nav_projects }}</h2>{% endif %}
+  {% set featured = site.projects|selectattr('featured')|list %}
+  {% set others = site.projects|rejectattr('featured')|list %}
+  <div class="proj-featured">
+    {% for p in featured %}
+    <article class="proj proj-{{ p.kind }}">
+      <p class="proj-kind">{% if p.kind == 'funded' %}{{ t.projects_funded }}{% elif p.kind == 'open-resource' %}{{ t.projects_open }}{% else %}{{ t.projects_research }}{% endif %}</p>
+      <h3>{{ m.L(p.title) }}</h3>
+      <p class="proj-meta">{{ m.T(p.role) }}{% if p.funder %}, {{ p.funder }}{% endif %}{% if p.code %} ({{ p.code }}){% endif %}, {{ p.period }}</p>
+      <p>{{ m.L(p.summary) }}</p>
+      <p class="proj-links">{{ m.links(p.links) }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  {% if others %}
+  <ul class="proj-others">
+    {% for p in others %}
+    <li><h3>{{ m.L(p.title) }}</h3><p class="proj-meta">{{ m.T(p.role) }}, {{ p.period }}</p><p>{{ m.L(p.summary) }}</p><p class="proj-links">{{ m.links(p.links) }}</p></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endif %}

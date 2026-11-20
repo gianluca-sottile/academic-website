@@ -1,0 +1,15 @@
+{% if site.software %}
+<section id="software" class="section software">
+{% if not in_page %}  <h2>{{ t.software_title }}</h2>{% endif %}
+  <ul class="pkgs">
+    {% for s in site.software %}{% set meta = software_meta.get(s.id, {}) %}
+    <li class="pkg">
+      <div class="pkg-head"><h3>{{ s.name }}</h3>{% if meta.cran_version %}<span class="ver">v{{ meta.cran_version }}</span>{% endif %}</div>
+      <p>{{ m.L(s.summary) }}</p>
+      {% if s.cran %}<div class="console"><code>install.packages("{{ s.cran }}")</code><button type="button" class="copy" data-copy='install.packages("{{ s.cran }}")' data-done="{{ t.software_copied }}">{{ t.software_copy }}</button></div>{% endif %}
+      <p class="pkg-links"><a class="chip" href="https://github.com/{{ s.repo }}" rel="noopener">GitHub</a>{% if s.cran %}<a class="chip" href="https://CRAN.R-project.org/package={{ s.cran }}" rel="noopener">CRAN</a>{% endif %}{% if s.homepage %}<a class="chip" href="{{ s.homepage }}" rel="noopener">Docs</a>{% endif %}{% if s.paper_doi %}<a class="chip" href="https://doi.org/{{ s.paper_doi }}" rel="noopener">{{ t.software_paper }}</a>{% endif %}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

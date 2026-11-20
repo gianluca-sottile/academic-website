@@ -1,0 +1,7 @@
+- {id: ems-2019, date: 2019-07-22, title: {en: Contributed talk, it: Comunicazione}, event: European Meeting of Statisticians (EMS 2019), place: Palermo, kind: talk, link: "https://www.unipa.it/European-Meeting-of-Statisticians-EMS-2019-/", files: [{label: Slides, url: /files/EMS2019_PresentazioneSottile.pdf}]}
+- {id: sis-2019-a, date: 2019-06-18, title: {en: Contributed talk, it: Comunicazione}, event: SIS 2019, place: Milano, kind: talk, files: [{label: Slides, url: /files/SIS2019_PresentazioneSottile.pdf}]}
+- {id: sis-2019-b, date: 2019-06-18, title: {en: Contributed talk, it: Comunicazione}, event: SIS 2019, place: Milano, kind: talk, files: [{label: Slides, url: /files/SIS2019_PresentazioneSottile2.pdf}]}
+- {id: sis-2018, date: 2018-06-20, title: {en: Contributed talk, it: Comunicazione}, event: SIS 2018, place: Palermo, kind: talk, files: [{label: Slides, url: /files/SIS2018_PresentazioneSottile.pdf}]}
+- {id: cronos-2018, date: 2018-04-03, title: {en: Contributed talk, it: Comunicazione}, event: CRoNoS & MDA 2018, place: Limassol, kind: talk, link: "http://www.cmstatistics.org/CRONOSMDA2018/index.php", files: [{label: Slides, url: /files/CRONOS2018_PresentazioneSottile.pdf}]}
+- {id: iwsm-2017, date: 2017-07-02, title: Poster, event: IWSM 2017, place: Groningen, kind: poster, files: [{label: Poster, url: /files/IWSM2017_posterSottile.pdf}]}
+- {id: iwsm-2016, date: 2016-07-04, title: Poster, event: IWSM 2016, place: Rennes, kind: poster, files: [{label: Poster, url: /files/IWSM2016_posterSottile.pdf}]}

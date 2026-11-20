@@ -1,0 +1,59 @@
+- id: prin-2022
+  title: Spatio-temporal Functional Marked Point Processes for probabilistic forecasting of earthquakes
+  kind: funded
+  funder: PRIN 2022 — MUR
+  code: 2022BN7CJP
+  role: {en: "Research unit member (PI: G. Adelfio)", it: "Componente dell'unità di ricerca (PI: G. Adelfio)"}
+  period: 2023 – 2027
+  end: 2027-01
+  summary:
+    en: Statistical models for earthquake forecasting that treat seismic waveforms as functional marks of space–time point processes.
+    it: Modelli statistici per la previsione dei terremoti che trattano le forme d'onda sismiche come marche funzionali di processi di punto spazio-temporali.
+  featured: true
+- id: statatlas
+  title: StatAtlas
+  kind: open-resource
+  role: {en: Author, it: Autore}
+  period: 2026
+  summary:
+    en: An open, interactive teaching atlas of statistics — 31 hands-on labs with student worksheets, teacher guides and R-validated examples.
+    it: Un atlante didattico interattivo e aperto della statistica — 31 laboratori con schede per studenti, guide per docenti ed esempi validati in R.
+  links:
+    - {label: {en: Open StatAtlas, it: Apri StatAtlas}, url: "https://gianluca-sottile.github.io/statatlas/"}
+    - {label: GitHub, url: "https://github.com/gianluca-sottile/statatlas"}
+  featured: true
+- id: r-course
+  title: From Data to Models with R
+  kind: open-resource
+  role: {en: Author, it: Autore}
+  period: 2026
+  summary:
+    en: Free bilingual course — from R basics to regression, machine learning and clustering, with exercises that run in the browser.
+    it: Corso gratuito e bilingue — dalle basi di R a regressione, machine learning e clustering, con esercizi eseguibili nel browser.
+  links:
+    - {label: {en: Course website, it: Sito del corso}, url: "https://gianluca-sottile.github.io/An-R-Tutorial-for-Beginners/"}
+    - {label: GitHub, url: "https://github.com/gianluca-sottile/An-R-Tutorial-for-Beginners"}
+  featured: true
+- id: covistat19
+  title: CoViSTAT19
+  kind: research
+  role: {en: Team member, it: Componente del gruppo}
+  period: 2020 – 2021
+  summary:
+    en: Real-time statistical analyses and forecasts of the COVID-19 epidemic in Italy, published openly by a University of Palermo team.
+    it: Analisi statistiche e previsioni in tempo reale sull'epidemia di COVID-19 in Italia, pubblicate in modo aperto da un gruppo dell'Università di Palermo.
+  links:
+    - {label: {en: Website, it: Sito}, url: "https://www.unipa.it/covid19"}
+    - {label: {en: Code, it: Codice}, url: "https://github.com/gianluca-sottile/covid19"}
+- id: pon-aim
+  title: PON AIM — microRNA network modelling
+  kind: funded
+  funder: PON "Attrazione e Mobilità Internazionale" — MUR
+  code: AIM1873193-2
+  role: {en: Assistant Professor (RTD-A) funded by the project, it: Ricercatore (RTD-A) finanziato dal progetto}
+  period: 2019 – 2022
+  summary:
+    en: Network models of the microRNA–target system across tissues, to compare tumour and healthy tissue and study the role of microRNAs in cancer onset.
+    it: Modelli di rete del sistema microRNA–target nei diversi tessuti, per confrontare tessuto tumorale e sano e studiare il ruolo dei microRNA nell'insorgenza del cancro.
+  links:
+    - {label: {en: Programme, it: Programma}, url: "https://aim.cineca.it"}

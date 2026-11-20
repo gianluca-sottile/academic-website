@@ -1,0 +1,5 @@
+{% extends "page.html" %}
+{% set in_page = true %}
+{% set page_title = "CV" %}
+{% block intro %}<p><a class="chip" href="/files/CV_gianluca_sottile.pdf">{{ t.cv_download }}</a></p>{% endblock %}
+{% block content %}{% include "sections/career.html" %}{% endblock %}

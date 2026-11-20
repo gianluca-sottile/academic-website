@@ -1,0 +1,30 @@
+{
+ "islasso": {
+  "cran_version": "1.6.2",
+  "cran_published": "2025-11-15",
+  "downloads_last_month": 667,
+  "gh_stars": 0,
+  "gh_url": "https://github.com/gianluca-sottile/islasso"
+ },
+ "qest": {
+  "cran_version": "2.0.0",
+  "cran_published": "2026-10-29",
+  "downloads_last_month": 564,
+  "gh_stars": 0,
+  "gh_url": "https://github.com/gianluca-sottile/Qest"
+ },
+ "qrcmnp": {
+  "cran_version": "1.0.0",
+  "cran_published": "2026-10-30",
+  "downloads_last_month": 552,
+  "gh_stars": 0,
+  "gh_url": "https://github.com/gianluca-sottile/qrcmNP"
+ },
+ "clusteff": {
+  "cran_version": "1.0.0",
+  "cran_published": "2026-11-03",
+  "downloads_last_month": 598,
+  "gh_stars": 0,
+  "gh_url": "https://github.com/gianluca-sottile/clustEff"
+ }
+}

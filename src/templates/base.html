@@ -1,0 +1,39 @@
+{% import "partials/macros.html" as m with context %}
+<!doctype html>
+<html lang="{{ lang }}" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Gianluca Sottile — {{ m.T(site.profile.role) }}{% endblock %}</title>
+<meta name="description" content="{{ m.T(site.profile.tagline) }}">
+<meta name="theme-color" content="#1B2540">
+{% for l in LANGS %}
+<link rel="alternate" hreflang="{{ l }}" href="{{ BASE_URL }}{{ url_for(page, l) }}">
+{% endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ BASE_URL }}{{ url_for(page, 'en') }}">
+<link rel="canonical" href="{{ BASE_URL }}{{ url_for(page, lang) }}">
+<meta property="og:title" content="Gianluca Sottile">
+<meta property="og:description" content="{{ m.T(site.profile.tagline) }}">
+<meta property="og:image" content="{{ BASE_URL }}/assets/brand/og-image.png">
+<meta property="og:type" content="website">
+<link rel="icon" href="/assets/brand/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/brand/favicon-32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">
+<link rel="manifest" href="/assets/brand/site.webmanifest">
+<link rel="preload" href="/assets/fonts/lmroman17-regular.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="/assets/css/site.css">
+<script>try{var s=localStorage.getItem('theme');if(s)document.documentElement.dataset.theme=s}catch(e){}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Gianluca Sottile","jobTitle":"{{ m.T(site.profile.role) }}","affiliation":{"@type":"CollegeOrUniversity","name":"University of Palermo"},"sameAs":["https://orcid.org/0000-0001-9347-7251","https://scholar.google.com/citations?user=Kr8_P5EAAAAJ","https://github.com/gianluca-sottile"]}</script>
+</head>
+<body>
+<a class="skip" href="#main">{{ t.skip }}</a>
+{% include "partials/header.html" %}
+<main id="main">
+{% block body %}{% endblock %}
+</main>
+{% include "partials/footer.html" %}
+<div class="lang-suggest" hidden data-lang="{{ lang }}" data-other="{{ url_for(page, 'it' if lang == 'en' else 'en') }}"></div>
+<script src="/assets/js/site.js" defer></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

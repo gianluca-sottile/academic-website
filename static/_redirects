@@ -1,1 +1,21 @@
-http://gianlucasottile.rbind.io/* https://gianlucasottile.rbind.io/:splat 301!
+# Old Hugo Academic URLs -> new pages (301)
+http://gianlucasottile.rbind.io/*  https://gianlucasottile.rbind.io/:splat  301!
+/publication/*      /publications/   301
+/publication_types/*  /publications/  301
+/publication-type/*  /publications/  301
+/project/*          /projects/       301
+/talk2/*            /projects/       301
+/talk/*             /talks/          301
+/courses/*          /teaching/       301
+/post/*             /                301
+/slides/*           /                301
+/author/*           /                301
+/tag/*              /publications/   301
+/CV_gianluca_sottile.pdf  /files/CV_gianluca_sottile.pdf  301
+/CRONOS2018_PresentazioneSottile.pdf  /files/CRONOS2018_PresentazioneSottile.pdf  301
+/EMS2019_PresentazioneSottile.pdf  /files/EMS2019_PresentazioneSottile.pdf  301
+/IWSM2016_posterSottile.pdf  /files/IWSM2016_posterSottile.pdf  301
+/IWSM2017_posterSottile.pdf  /files/IWSM2017_posterSottile.pdf  301
+/SIS2018_PresentazioneSottile.pdf  /files/SIS2018_PresentazioneSottile.pdf  301
+/SIS2019_PresentazioneSottile.pdf  /files/SIS2019_PresentazioneSottile.pdf  301
+/SIS2019_PresentazioneSottile2.pdf  /files/SIS2019_PresentazioneSottile2.pdf  301

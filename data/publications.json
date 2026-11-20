@@ -1,0 +1,1655 @@
+{
+ "updated": "2026-11-20",
+ "source": "OpenAlex (ORCID 0000-0001-9347-7251)",
+ "items": [
+  {
+   "id": "10.1007/978-3-032-30881-8_58",
+   "doi": "10.1007/978-3-032-30881-8_58",
+   "title": "Functional Clustering of Registered OD₆₀₀ Growth-Curve Effects Reveals Archetypal Pollutant response Dynamics",
+   "authors": [
+    "Antonino Gagliano",
+    "Gianluca Sottile"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2026,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-032-30881-8_58",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Advanced Statistical Methods and Models",
+   "themes": [
+    "functional"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-032-30665-4_43",
+   "doi": "10.1007/978-3-032-30665-4_43",
+   "title": "Functional Data Analysis and Machine Learning for the Traceability of Italian Sheep Milk",
+   "authors": [
+    "Davide Ciro Pinello",
+    "Gianluca Sottile",
+    "Angelo Mineo",
+    "Salvatore Mastrangelo",
+    "Luigi Augugliaro",
+    "Alberto Cesarani"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2026,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-032-30665-4_43",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Spectroscopy and Chemometric Analyses",
+   "themes": [
+    "functional"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/s10462-026-11536-3",
+   "doi": "10.1007/s10462-026-11536-3",
+   "title": "Machine learning approaches for asthma exacerbation predictions: a systematic review",
+   "authors": [
+    "Giovanna Cilluffo",
+    "Michele Atzeni",
+    "Velia Malizia",
+    "Martina Vettoretti",
+    "Gianluca Sottile"
+   ],
+   "venue": "Artificial Intelligence Review",
+   "year": 2026,
+   "type": "article",
+   "url": "https://doi.org/10.1007/s10462-026-11536-3",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10462-026-11536-3.pdf",
+   "citations": 2,
+   "topic": "Asthma and respiratory diseases",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-92383-8_27",
+   "doi": "10.1007/978-3-031-92383-8_27",
+   "title": "A Novel Spectral Density Operator Approach to Unveil Dynamic Time Dependencies in Multivariate Long-Term ECGs",
+   "authors": [
+    "Antonino Gagliano",
+    "Chiara Di Maria",
+    "Gianluca Sottile",
+    "Sarah Beutler",
+    "Luigi Augugliaro",
+    "Valeria Vitelli"
+   ],
+   "venue": "Contributions to statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-92383-8_27",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "ECG Monitoring and Analysis",
+   "themes": [
+    "functional",
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-96303-2_73",
+   "doi": "10.1007/978-3-031-96303-2_73",
+   "title": "Assessing Habitat Suitability and Vulnerability for Marine Species in Offshore Wind Farm Planning: A Case Study of Pantelleria Island",
+   "authors": [
+    "Giovanna Cilluffo",
+    "Gianluca Sottile",
+    "Laura Ciriminna",
+    "Geraldina Signa",
+    "Agostino Tomasello",
+    "Salvatrice Vizzini"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-96303-2_73",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Species Distribution and Climate Change",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-64447-4_62",
+   "doi": "10.1007/978-3-031-64447-4_62",
+   "title": "Asthma Prediction Tool in Preschool Children: Evidence from Predictive Performance Comparison by Using Innovative Statistical Approach",
+   "authors": [
+    "Alessandra Pandolfo",
+    "Gianluca Sottile",
+    "Velia Malizia",
+    "Omar Shatarat",
+    "Valentina Lazzara",
+    "Vito M. R. Muggeo",
+    "Giovanni Viegi",
+    "S. La Grutta"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-64447-4_62",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Artificial Intelligence in Healthcare",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1093/jrsssc/qlaf042",
+   "doi": "10.1093/jrsssc/qlaf042",
+   "title": "Functional Gaussian graphical regression models for air quality data",
+   "authors": [
+    "Rita Fici",
+    "Gianluca Sottile",
+    "Luigi Augugliaro",
+    "Ernst C. Wit"
+   ],
+   "venue": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "year": 2025,
+   "type": "article",
+   "url": "https://doi.org/10.1093/jrsssc/qlaf042",
+   "oa_url": "https://doi.org/10.1093/jrsssc/qlaf042",
+   "citations": 2,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "graphical",
+    "functional",
+    "health-env"
+   ],
+   "selected": true,
+   "links": [
+    {
+     "label": "Code",
+     "url": "https://github.com/gianluca-sottile/Functional-Gaussian-Graphical-Regression-Models"
+    }
+   ]
+  },
+  {
+   "id": "10.1007/978-3-031-64447-4_10",
+   "doi": "10.1007/978-3-031-64447-4_10",
+   "title": "Integrating Pseudo-time in Network Interaction Analysis to Uncover Genetic Pathways in Thyroid Cancer",
+   "authors": [
+    "Antonino Gagliano",
+    "Gianluca Sottile",
+    "Nicolina Sciaraffa",
+    "Claudia Coronnello",
+    "Luigi Augugliaro"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-64447-4_10",
+   "oa_url": null,
+   "citations": 1,
+   "topic": "Bioinformatics and Genomic Networks",
+   "themes": [
+    "graphical",
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1109/aixb65684.2025.00033",
+   "doi": "10.1109/aixb65684.2025.00033",
+   "title": "Mapping Marine Biodiversity Vulnerability for Offshore Wind Development: Insights from Pantelleria Island",
+   "authors": [
+    "Giovanna Cilluffo",
+    "Gianluca Sottile",
+    "Laura Ciriminna",
+    "Geraldina Signa",
+    "Agostino Tomasello",
+    "Salvatrice Vizzini"
+   ],
+   "venue": "Artificial Intelligence for Business (AIxB)",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1109/aixb65684.2025.00033",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Species Distribution and Climate Change",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-95995-0_47",
+   "doi": "10.1007/978-3-031-95995-0_47",
+   "title": "Multichannel ECG Spectral Analysis via Functional Data Methods: A Structured Approach to Dynamic Signal Dependencies",
+   "authors": [
+    "Antonino Gagliano",
+    "Chiara Di Maria",
+    "Gianluca Sottile",
+    "Sarah Beutler",
+    "Luigi Augugliaro",
+    "Valeria Vitelli"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-95995-0_47",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "ECG Monitoring and Analysis",
+   "themes": [
+    "functional",
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-96736-8_75",
+   "doi": "10.1007/978-3-031-96736-8_75",
+   "title": "Sparse Multiple Gaussian Graphical Models for Partially Observed Data",
+   "authors": [
+    "Gianluca Sottile",
+    "Veronica Vinciotti"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-96736-8_75",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Gene Regulatory Network Analysis",
+   "themes": [
+    "sparse",
+    "graphical"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/978-3-031-95995-0_77",
+   "doi": "10.1007/978-3-031-95995-0_77",
+   "title": "Time Series Bootstrap for Renewable Energy Analysis in Power Grid Optimization",
+   "authors": [
+    "Giulia Marcon",
+    "Andrea Marletta",
+    "Salar Moradi",
+    "Gaetano Zizzo",
+    "Salvatore Favuzza",
+    "Gianluca Sottile"
+   ],
+   "venue": "Italian Statistical Society Series on Advances in Statistics",
+   "year": 2025,
+   "type": "proceedings",
+   "url": "https://doi.org/10.1007/978-3-031-95995-0_77",
+   "oa_url": "https://hdl.handle.net/10447/683770",
+   "citations": 2,
+   "topic": "Energy Load and Power Forecasting",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/s10651-024-00610-0",
+   "doi": "10.1007/s10651-024-00610-0",
+   "title": "A comprehensive environmental exposure indicator and respiratory health in asthmatic children: a case study",
+   "authors": [
+    "Giovanna Cilluffo",
+    "Gianluca Sottile",
+    "Giuliana Ferrante",
+    "Salvatore Fasola",
+    "Velia Malizia",
+    "Laura Montalbano",
+    "Andrea Ranzi",
+    "Chiara Badaloní",
+    "Giovanni Viegi",
+    "Stefania La Grutta"
+   ],
+   "venue": "Environmental and Ecological Statistics",
+   "year": 2024,
+   "type": "article",
+   "url": "https://doi.org/10.1007/s10651-024-00610-0",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s10651-024-00610-0.pdf",
+   "citations": 4,
+   "topic": "Air Quality and Health Impacts",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.3389/fgene.2024.1376883",
+   "doi": "10.3389/fgene.2024.1376883",
+   "title": "A high-density genome-wide approach reveals novel genetic markers linked to small ruminant lentivirus susceptibility in sheep",
+   "authors": [
+    "Silvia Riggio",
+    "Marco Tolone",
+    "Gianluca Sottile",
+    "Serena Tumino",
+    "Baldassare Portolano",
+    "Anna Maria Sutera",
+    "Maria Teresa Sardina",
+    "Alberto Cesarani",
+    "Salvatore Mastrangelo"
+   ],
+   "venue": "Frontiers in Genetics",
+   "year": 2024,
+   "type": "article",
+   "url": "https://doi.org/10.3389/fgene.2024.1376883",
+   "oa_url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1376883/pdf",
+   "citations": 3,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1016/j.jveb.2024.03.006",
+   "doi": "10.1016/j.jveb.2024.03.006",
+   "title": "Influence of season and photoperiod in severe dog attack cases on humans in a Mediterranean climate region",
+   "authors": [
+    "Daniela Alberghina",
+    "Gianluca Sottile",
+    "Antonino Nazareno Virga",
+    "Giacoma Brancato",
+    "Michele Panzera"
+   ],
+   "venue": "Journal of Veterinary Behavior",
+   "year": 2024,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.jveb.2024.03.006",
+   "oa_url": null,
+   "citations": 1,
+   "topic": "Injury Epidemiology and Prevention",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1093/jrsssc/qlae052",
+   "doi": "10.1093/jrsssc/qlae052",
+   "title": "Sparse inference of the human haematopoietic system from heterogeneous and partially observed genomic data",
+   "authors": [
+    "Gianluca Sottile",
+    "Luigi Augugliaro",
+    "Veronica Vinciotti",
+    "Walter Arancio",
+    "Claudia Coronnello"
+   ],
+   "venue": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+   "year": 2024,
+   "type": "article",
+   "url": "https://doi.org/10.1093/jrsssc/qlae052",
+   "oa_url": "https://academic.oup.com/jrsssc/advance-article-pdf/doi/10.1093/jrsssc/qlae052/59743014/qlae052.pdf",
+   "citations": 4,
+   "topic": "Gene Regulatory Network Analysis",
+   "themes": [
+    "sparse",
+    "graphical",
+    "genomics"
+   ],
+   "selected": true,
+   "links": [
+    {
+     "label": "Code",
+     "url": "https://github.com/gianluca-sottile/Hematopoiesis-network-inference-from-RT-qPCR-data"
+    }
+   ]
+  },
+  {
+   "id": "10.3389/fvets.2023.1104477",
+   "doi": "10.3389/fvets.2023.1104477",
+   "title": "A 10-year retrospective analysis (2012-2021) of hospitalizations resulting from dog bites in Southern Italy",
+   "authors": [
+    "Daniela Alberghina",
+    "Antonino Nazareno Virga",
+    "Gianluca Sottile",
+    "Sergio Pio Buffa",
+    "Michele Panzera"
+   ],
+   "venue": "Frontiers in Veterinary Science",
+   "year": 2023,
+   "type": "article",
+   "url": "https://doi.org/10.3389/fvets.2023.1104477",
+   "oa_url": "https://www.frontiersin.org/articles/10.3389/fvets.2023.1104477/pdf",
+   "citations": 10,
+   "topic": "Injury Epidemiology and Prevention",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1016/j.fufo.2023.100263",
+   "doi": "10.1016/j.fufo.2023.100263",
+   "title": "Analyzing post modern consumer behavior and beef consumption patterns: Insights from Sicilian market",
+   "authors": [
+    "Federico Modica",
+    "Caterina Sciortino",
+    "Adriana Bonanno",
+    "Nazareno Antonino Virga",
+    "Natalia Sciortino",
+    "Gianluca Sottile",
+    "Filippo Sgroi"
+   ],
+   "venue": "Future Foods",
+   "year": 2023,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.fufo.2023.100263",
+   "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2666833523000497-ga1_lrg.jpg",
+   "citations": 10,
+   "topic": "Consumer behavior in food and health",
+   "themes": [],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.18637/jss.v105.i01",
+   "doi": "10.18637/jss.v105.i01",
+   "title": "cglasso: An R Package for Conditional Graphical Lasso Inference with Censored and Missing Values",
+   "authors": [
+    "Luigi Augugliaro",
+    "Gianluca Sottile",
+    "Ernst C. Wit",
+    "Veronica Vinciotti"
+   ],
+   "venue": "Journal of Statistical Software",
+   "year": 2023,
+   "type": "article",
+   "url": "https://doi.org/10.18637/jss.v105.i01",
+   "oa_url": "https://www.jstatsoft.org/index.php/jss/article/download/v105i01/4418",
+   "citations": 18,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse",
+    "graphical"
+   ],
+   "selected": true,
+   "links": [
+    {
+     "label": "cglasso",
+     "url": "https://cran.r-project.org/package=cglasso"
+    }
+   ]
+  },
+  {
+   "id": "10.1177/1471082x231181734",
+   "doi": "10.1177/1471082x231181734",
+   "title": "Joint modelling of non-crossing additive quantile regression via constrained B-spline varying coefficients",
+   "authors": [
+    "Vito M. R. Muggeo",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo"
+   ],
+   "venue": "Statistical Modelling",
+   "year": 2023,
+   "type": "article",
+   "url": "https://doi.org/10.1177/1471082x231181734",
+   "oa_url": null,
+   "citations": 1,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "quantile"
+   ],
+   "selected": true,
+   "links": []
+  },
+  {
+   "id": "10.1038/s41598-022-12246-w",
+   "doi": "10.1038/s41598-022-12246-w",
+   "title": "A multivariate statistical test for differential expression analysis",
+   "authors": [
+    "Michele Tumminello",
+    "Giorgio Bertolazzi",
+    "Gianluca Sottile",
+    "Nicolina Sciaraffa",
+    "Walter Arancio",
+    "Claudia Coronnello"
+   ],
+   "venue": "Scientific Reports",
+   "year": 2022,
+   "type": "article",
+   "url": "https://doi.org/10.1038/s41598-022-12246-w",
+   "oa_url": "https://www.nature.com/articles/s41598-022-12246-w.pdf",
+   "citations": 7,
+   "topic": "Gene expression and cancer classification",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": [
+    {
+     "label": "Code",
+     "url": "https://github.com/gianluca-sottile/A-Novel-Statistical-Test-For-Differential-Expression-Analysis"
+    }
+   ]
+  },
+  {
+   "id": "10.1016/j.csda.2022.107471",
+   "doi": "10.1016/j.csda.2022.107471",
+   "title": "Robust estimation and regression with parametric quantile functions",
+   "authors": [
+    "Gianluca Sottile",
+    "Paolo Frumento"
+   ],
+   "venue": "Computational Statistics & Data Analysis",
+   "year": 2022,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.csda.2022.107471",
+   "oa_url": null,
+   "citations": 11,
+   "topic": "Advanced Statistical Methods and Models",
+   "themes": [
+    "quantile"
+   ],
+   "selected": true,
+   "links": [
+    {
+     "label": "Qest",
+     "url": "https://github.com/gianluca-sottile/Qest"
+    }
+   ]
+  },
+  {
+   "id": "10.1007/978-3-030-88622-6_3",
+   "doi": "10.1007/978-3-030-88622-6_3",
+   "title": "Statistical Modelling to Monitor and to Predict the Epidemic Evolution",
+   "authors": [
+    "Vito M. R. Muggeo",
+    "Gianluca Sottile",
+    "Vincenzo Giuseppe Genova",
+    "Giorgio Bertolazzi",
+    "Andrea Consiglio",
+    "Mariano Porcu"
+   ],
+   "venue": "UNIPA Springer series",
+   "year": 2022,
+   "type": "chapter",
+   "url": "https://doi.org/10.1007/978-3-030-88622-6_3",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "COVID-19 epidemiological studies",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1016/j.ecolind.2022.109358",
+   "doi": "10.1016/j.ecolind.2022.109358",
+   "title": "The neglected status of the vermetid reefs in the Mediterranean Sea: A systematic map",
+   "authors": [
+    "Flavio Picone",
+    "Gianluca Sottile",
+    "Concetta Fazio",
+    "Renato Chemello"
+   ],
+   "venue": "Ecological Indicators",
+   "year": 2022,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.ecolind.2022.109358",
+   "oa_url": "https://doi.org/10.1016/j.ecolind.2022.109358",
+   "citations": 19,
+   "topic": "Marine Biology and Ecology Research",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/s00477-021-02028-7",
+   "doi": "10.1007/s00477-021-02028-7",
+   "title": "A PCA-based clustering algorithm for the identification of stratiform and convective precipitation at the event scale: an application to the sub-hourly precipitation of Sicily, Italy",
+   "authors": [
+    "Gianluca Sottile",
+    "Antonio Francipane",
+    "Giada Adelfio",
+    "Leonardo Noto"
+   ],
+   "venue": "Stochastic Environmental Research and Risk Assessment",
+   "year": 2021,
+   "type": "article",
+   "url": "https://doi.org/10.1007/s00477-021-02028-7",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s00477-021-02028-7.pdf",
+   "citations": 20,
+   "topic": "Precipitation Measurement and Analysis",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.3233/jpd-202488",
+   "doi": "10.3233/jpd-202488",
+   "title": "Activation-Induced Rigidity in Neurologically and Cognitively Healthy Individuals Aged 18–90 Years: A Cross-Sectional Study",
+   "authors": [
+    "Cecilia Camarda",
+    "Paola Torelli",
+    "Carmela Pipia",
+    "Iacopo Battaglini",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Rosolino Camarda"
+   ],
+   "venue": "Journal of Parkinson s Disease",
+   "year": 2021,
+   "type": "article",
+   "url": "https://doi.org/10.3233/jpd-202488",
+   "oa_url": "https://content.iospress.com:443/download/journal-of-parkinsons-disease/jpd202488?id=journal-of-parkinsons-disease%2Fjpd202488",
+   "citations": 0,
+   "topic": "Parkinson's Disease Mechanisms and Treatments",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1177/1471082x211036517",
+   "doi": "10.1177/1471082x211036517",
+   "title": "Parametric estimation of non-crossing quantile functions",
+   "authors": [
+    "Gianluca Sottile",
+    "Paolo Frumento"
+   ],
+   "venue": "Statistical Modelling",
+   "year": 2021,
+   "type": "article",
+   "url": "https://doi.org/10.1177/1471082x211036517",
+   "oa_url": "https://hdl.handle.net/11568/1126134",
+   "citations": 12,
+   "topic": "Advanced Statistical Methods and Models",
+   "themes": [
+    "quantile"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-sparse-inference-in-covariate-adjusted-censored-gaussian-gra",
+   "doi": null,
+   "title": "SPARSE INFERENCE IN COVARIATE ADJUSTED CENSORED GAUSSIAN GRAPHICAL MODELS",
+   "authors": [
+    "Luigi Augugliaro",
+    "Gianluca Sottile",
+    "Angelo Marcello Mineo"
+   ],
+   "venue": "",
+   "year": 2021,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/533703",
+   "oa_url": "https://iris.unipa.it/bitstream/10447/533703/2/AugugliaroEtAl_CLADAG_21.pdf",
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse",
+    "graphical"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1016/j.jaci.2020.07.029",
+   "doi": "10.1016/j.jaci.2020.07.029",
+   "title": "A model-based approach for assessing bronchodilator responsiveness in children: The conventional cutoff revisited",
+   "authors": [
+    "Gianluca Sottile",
+    "Giuliana Ferrante",
+    "Giovanna Cilluffo",
+    "Salvatore Fasola",
+    "Velia Malizia",
+    "Vito M. R. Muggeo",
+    "Giovanni Viegi",
+    "Stefania La Grutta"
+   ],
+   "venue": "Journal of Allergy and Clinical Immunology",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.jaci.2020.07.029",
+   "oa_url": "http://www.jacionline.org/article/S0091674920311040/pdf",
+   "citations": 5,
+   "topic": "Asthma and respiratory diseases",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-analisi-e-monitoraggio-della-diffusione-del-covid19-in-itali",
+   "doi": null,
+   "title": "Analisi e monitoraggio della diffusione del Covid19 in Italia: il gruppo CoViSTAT19",
+   "authors": [
+    "Vito M. R. Muggeo",
+    "Giorgio Bertolazzi",
+    "Andrea Consiglio",
+    "Gianluca Sottile",
+    "Vincenzo Giuseppe Genova",
+    "Mariano Porcu"
+   ],
+   "venue": "",
+   "year": 2020,
+   "type": "article",
+   "url": "http://hdl.handle.net/10447/426725",
+   "oa_url": null,
+   "citations": 1,
+   "topic": "COVID-19 epidemiological studies",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.2174/1567205017666201109093314",
+   "doi": "10.2174/1567205017666201109093314",
+   "title": "APOE Genotypes and Brain Imaging Classes in Normal Cognition, Mild Cognitive Impairment, and Alzheimer’s Disease: A Longitudinal Study",
+   "authors": [
+    "Cecilia Camarda",
+    "Paola Torelli",
+    "Carmela Pipia",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Rosolino Camarda"
+   ],
+   "venue": "Current Alzheimer Research",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.2174/1567205017666201109093314",
+   "oa_url": null,
+   "citations": 4,
+   "topic": "Dementia and Cognitive Impairment Research",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-covistat19-analisi-dati-e-previsioni-su-covid-19",
+   "doi": null,
+   "title": "CoViSTAT19 - ANALISI DATI E PREVISIONI SU COVID-19",
+   "authors": [
+    "Andrea Consiglio",
+    "Vito M. R. Muggeo",
+    "Gianluca Sottile",
+    "Vincenzo Giuseppe Genova",
+    "Giorgio Bertolazzi",
+    "Mariano Porcu",
+    "Giovanni Boscaino"
+   ],
+   "venue": "",
+   "year": 2020,
+   "type": "article",
+   "url": "http://swps.unipa.it/index.php/swps/article/view/33",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "COVID-19 epidemiological studies",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.3390/ani10030493",
+   "doi": "10.3390/ani10030493",
+   "title": "Genome-Wide Analyses Identifies Known and New Markers Responsible of Chicken Plumage Color",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Filippo Cendron",
+    "Gianluca Sottile",
+    "Giovanni Niero",
+    "Baldassare Portolano",
+    "Filippo Biscarini",
+    "Martino Cassandro"
+   ],
+   "venue": "Animals",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.3390/ani10030493",
+   "oa_url": "https://www.mdpi.com/2076-2615/10/3/493/pdf?version=1584465531",
+   "citations": 30,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1111/jbg.12476",
+   "doi": "10.1111/jbg.12476",
+   "title": "Genome‐wide detection of signatures of selection in three Valdostana cattle populations",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Slim Ben Jemaa",
+    "Elena Ciani",
+    "Gianluca Sottile",
+    "Angelo Moscarelli",
+    "Mekki Boussaha",
+    "Marina Montedoro",
+    "Fabio Pilla",
+    "Martino Cassandro"
+   ],
+   "venue": "Journal of Animal Breeding and Genetics",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.1111/jbg.12476",
+   "oa_url": "http://hdl.handle.net/10447/405944",
+   "citations": 42,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1080/02664763.2020.1845624",
+   "doi": "10.1080/02664763.2020.1845624",
+   "title": "Migration and students' performance: detecting geographical differences following a curves clustering approach",
+   "authors": [
+    "Giovanni Boscaino",
+    "Gianluca Sottile",
+    "Giada Adelfio"
+   ],
+   "venue": "Journal of Applied Statistics",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.1080/02664763.2020.1845624",
+   "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9041684/",
+   "citations": 6,
+   "topic": "Educational Outcomes and Influences",
+   "themes": [
+    "graphical",
+    "functional"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1038/s41598-020-71375-2",
+   "doi": "10.1038/s41598-020-71375-2",
+   "title": "Refining the genetic structure and relationships of European cattle breeds through meta-analysis of worldwide genomic SNP data, focusing on Italian cattle",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Marco Tolone",
+    "Slim Ben Jemaa",
+    "Gianluca Sottile",
+    "Rosalia Di Gerlando",
+    "O. Cortés",
+    "Gabriele Senczuk",
+    "Baldassare Portolano",
+    "Fabio Pilla",
+    "Elena Ciani"
+   ],
+   "venue": "Scientific Reports",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.1038/s41598-020-71375-2",
+   "oa_url": "https://www.nature.com/articles/s41598-020-71375-2.pdf",
+   "citations": 36,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/s11222-020-09945-7",
+   "doi": "10.1007/s11222-020-09945-7",
+   "title": "The conditional censored graphical lasso estimator",
+   "authors": [
+    "Luigi Augugliaro",
+    "Gianluca Sottile",
+    "Veronica Vinciotti"
+   ],
+   "venue": "Statistics and Computing",
+   "year": 2020,
+   "type": "article",
+   "url": "https://doi.org/10.1007/s11222-020-09945-7",
+   "oa_url": "https://link.springer.com/content/pdf/10.1007/s11222-020-09945-7.pdf",
+   "citations": 7,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse",
+    "graphical"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1016/j.livsci.2019.05.009",
+   "doi": "10.1016/j.livsci.2019.05.009",
+   "title": "A combined genome-wide approach identifies a new potential candidate marker associated with the coat color sidedness in cattle",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Gianluca Sottile",
+    "Maria Teresa Sardina",
+    "Anna Maria Sutera",
+    "Marco Tolone",
+    "Rosalia Di Gerlando",
+    "Baldassare Portolano"
+   ],
+   "venue": "Livestock Science",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1016/j.livsci.2019.05.009",
+   "oa_url": null,
+   "citations": 16,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-a-new-tuning-parameter-selector-in-lasso-regression",
+   "doi": null,
+   "title": "A new tuning parameter selector in lasso regression",
+   "authors": [
+    "Gianluca Sottile",
+    "Muggeo"
+   ],
+   "venue": "",
+   "year": 2019,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/419564",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1177/1471082x19825523",
+   "doi": "10.1177/1471082x19825523",
+   "title": "A penalized approach to covariate selection through quantile regression coefficient models",
+   "authors": [
+    "Gianluca Sottile",
+    "Paolo Frumento",
+    "Marcello Chiodi",
+    "Matteo Bottai"
+   ],
+   "venue": "Statistical Modelling",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1177/1471082x19825523",
+   "oa_url": "https://iris.unipa.it/bitstream/10447/347847/2/SMJ825523.pdf",
+   "citations": 10,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse",
+    "quantile"
+   ],
+   "selected": false,
+   "links": [
+    {
+     "label": "qrcmNP",
+     "url": "https://cran.r-project.org/package=qrcmNP"
+    }
+   ]
+  },
+  {
+   "id": "10.1186/s13052-019-0603-4",
+   "doi": "10.1186/s13052-019-0603-4",
+   "title": "An association analysis to identify genetic variants linked to asthma and rhino-conjunctivitis in a cohort of Sicilian children",
+   "authors": [
+    "Gianluca Sottile",
+    "Giuliana Ferrante",
+    "Marta Torregrossa",
+    "Fabio Cibella",
+    "Giovanna Cilluffo",
+    "Salvatore Fasola",
+    "Riccardo Alessandro",
+    "Gregorio Seidita",
+    "Giovanni Viegi",
+    "Stefania La Grutta"
+   ],
+   "venue": "The Italian Journal of Pediatrics/Italian journal of pediatrics",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1186/s13052-019-0603-4",
+   "oa_url": "https://ijponline.biomedcentral.com/track/pdf/10.1186/s13052-019-0603-4",
+   "citations": 8,
+   "topic": "Asthma and respiratory diseases",
+   "themes": [
+    "genomics",
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-an-extension-of-the-censored-gaussian-lasso-estimator",
+   "doi": null,
+   "title": "An extension of the censored gaussian lasso estimator",
+   "authors": [
+    "Luigi Augugliaro",
+    "Gianluca Sottile",
+    "Verónica Verónica"
+   ],
+   "venue": "",
+   "year": 2019,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/418527",
+   "oa_url": "http://hdl.handle.net/10447/418527",
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1111/jbg.12422",
+   "doi": "10.1111/jbg.12422",
+   "title": "Combined approaches to identify genomic regions involved in phenotypic differentiation between low divergent breeds: Application in Sardinian sheep populations",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Slim Ben Jemaa",
+    "Gianluca Sottile",
+    "Sara Casu",
+    "Baldassare Portolano",
+    "Elena Ciani",
+    "Fabio Pilla"
+   ],
+   "venue": "Journal of Animal Breeding and Genetics",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1111/jbg.12422",
+   "oa_url": null,
+   "citations": 18,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1371/journal.pone.0215204",
+   "doi": "10.1371/journal.pone.0215204",
+   "title": "Genome-wide association study between CNVs and milk production traits in Valle del Belice sheep",
+   "authors": [
+    "Rosalia Di Gerlando",
+    "Anna Maria Sutera",
+    "Salvatore Mastrangelo",
+    "Marco Tolone",
+    "Baldassare Portolano",
+    "Gianluca Sottile",
+    "A. Bagnato",
+    "Maria Giuseppina Strillacci",
+    "Maria Teresa Sardina"
+   ],
+   "venue": "PLoS ONE",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1371/journal.pone.0215204",
+   "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0215204&type=printable",
+   "citations": 51,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1111/age.12887",
+   "doi": "10.1111/age.12887",
+   "title": "Genome‐wide analyses reveal the regions involved in the phenotypic diversity in Sicilian pigs",
+   "authors": [
+    "E. D’Alessandro",
+    "Gianluca Sottile",
+    "Maria Teresa Sardina",
+    "Andrea Criscione",
+    "Salvatore Bordonaro",
+    "Anna Maria Sutera",
+    "Alessandro Zumbo",
+    "Baldassare Portolano",
+    "Salvatore Mastrangelo"
+   ],
+   "venue": "Animal Genetics",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1111/age.12887",
+   "oa_url": "https://iris.unipa.it/bitstream/10447/390548/13/AnGen-19-09-0287_Proof_hi.pdf",
+   "citations": 22,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1111/age.12763",
+   "doi": "10.1111/age.12763",
+   "title": "Genome‐wide analysis identifies potentially causative genes explaining the phenotypic variability in Pinzirita sheep",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Andrea Criscione",
+    "Gianluca Sottile",
+    "Baldassare Portolano",
+    "Donata Marletta",
+    "Salvatore Bordonaro"
+   ],
+   "venue": "Animal Genetics",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1111/age.12763",
+   "oa_url": null,
+   "citations": 9,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1017/cjn.2019.293",
+   "doi": "10.1017/cjn.2019.293",
+   "title": "Isolated, Subtle Neurological Abnormalities in Mild Cognitive Impairment Types",
+   "authors": [
+    "Cecilia Camarda",
+    "Rosolino Camarda",
+    "Carmela Pipia",
+    "Delia Maria Azzarello",
+    "Emanuele Grassedonio",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Paola Torelli"
+   ],
+   "venue": "Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1017/cjn.2019.293",
+   "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C843E13771D46677512E55B3E189FEAD/S0317167119002932a.pdf/div-class-title-isolated-subtle-neurological-abnormalities-in-mild-cognitive-impairment-types-div.pdf",
+   "citations": 6,
+   "topic": "Dementia and Cognitive Impairment Research",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.2174/1567205016666190726100744",
+   "doi": "10.2174/1567205016666190726100744",
+   "title": "Mild Parkinsonian Signs in a Hospital-based Cohort of Mild Cognitive Impairment Types: A Cross-sectional Study",
+   "authors": [
+    "Cecilia Camarda",
+    "Paola Torelli",
+    "Carmela Pipia",
+    "Iacopo Battaglini",
+    "Delia Maria Azzarello",
+    "Rosamaria Rosano",
+    "Caterina Claudia Ventimiglia",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Rosolino Camarda"
+   ],
+   "venue": "Current Alzheimer Research",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.2174/1567205016666190726100744",
+   "oa_url": null,
+   "citations": 7,
+   "topic": "Dementia and Cognitive Impairment Research",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1017/cjn.2018.388",
+   "doi": "10.1017/cjn.2018.388",
+   "title": "Nociceptive Primitive Reflexes in Neurologically and Cognitively Healthy Aging Subjects",
+   "authors": [
+    "Cecilia Camarda",
+    "Paola Torelli",
+    "Carmela Pipia",
+    "Delia Maria Azzarello",
+    "Iacopo Battaglini",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Rosolino Camarda"
+   ],
+   "venue": "Canadian Journal of Neurological Sciences / Journal Canadien des Sciences Neurologiques",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1017/cjn.2018.388",
+   "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1A7FBE69481ACAC264514CEEE0B0FDD8/S0317167118003888a.pdf/div-class-title-nociceptive-primitive-reflexes-in-neurologically-and-cognitively-healthy-aging-subjects-div.pdf",
+   "citations": 13,
+   "topic": "Dementia and Cognitive Impairment Research",
+   "themes": [
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-non-crossing-parametric-quantile-functions-an-application-to",
+   "doi": null,
+   "title": "Non-crossing parametric quantile functions: an application to extreme temperatures",
+   "authors": [
+    "Gianluca Sottile",
+    "Paolo Frumento"
+   ],
+   "venue": "",
+   "year": 2019,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/419560",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Advanced Statistical Methods and Models",
+   "themes": [
+    "quantile"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-non-crossing-quantile-regression-via-monotone-b-spline-varyi",
+   "doi": null,
+   "title": "Non-crossing quantile regression via monotone B-spline varying coefficients",
+   "authors": [
+    "Gianluca Sottile",
+    "Vito M. R. Muggeo"
+   ],
+   "venue": "",
+   "year": 2019,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/426593",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "quantile"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1177/0962280219842890",
+   "doi": "10.1177/0962280219842890",
+   "title": "The Induced Smoothed lasso: A practical framework for hypothesis testing in high dimensional regression",
+   "authors": [
+    "Giovanna Cilluffo",
+    "Gianluca Sottile",
+    "Stefania La Grutta",
+    "Vito M. R. Muggeo"
+   ],
+   "venue": "Statistical Methods in Medical Research",
+   "year": 2019,
+   "type": "article",
+   "url": "https://doi.org/10.1177/0962280219842890",
+   "oa_url": null,
+   "citations": 36,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse"
+   ],
+   "selected": true,
+   "links": [
+    {
+     "label": "islasso",
+     "url": "https://github.com/gianluca-sottile/islasso"
+    }
+   ]
+  },
+  {
+   "id": "oa-a-distribution-curves-comparison-approach-to-analyze-the-uni",
+   "doi": null,
+   "title": "A distribution curves comparison approach to analyze the university moving students performance",
+   "authors": [
+    "Giovanni Boscaino",
+    "Giada Adelfio",
+    "Gianluca Sottile"
+   ],
+   "venue": "",
+   "year": 2018,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/298159",
+   "oa_url": null,
+   "citations": 2,
+   "topic": "Educational Outcomes and Influences",
+   "themes": [
+    "functional"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.2174/1567205015666180702111110",
+   "doi": "10.2174/1567205015666180702111110",
+   "title": "Association Between Atrophy of the Caudate Nuclei, Global Brain Atrophy, Cerebral Small Vessel Disease and Mild Parkinsonian Signs in Neurologically and Cognitively Healthy Subjects Aged 45-84 Years: A Crosssectional Study",
+   "authors": [
+    "Cecilia Camarda",
+    "Paola Torelli",
+    "Carmela Pipia",
+    "Iacopo Battaglini",
+    "Delia Maria Azzarello",
+    "Rosamaria Rosano",
+    "Giusi Daniela Ventimiglia",
+    "Gianluca Sottile",
+    "Giovanna Cilluffo",
+    "Rosolino Camarda"
+   ],
+   "venue": "Current Alzheimer Research",
+   "year": 2018,
+   "type": "article",
+   "url": "https://doi.org/10.2174/1567205015666180702111110",
+   "oa_url": null,
+   "citations": 26,
+   "topic": "Cerebrovascular and genetic disorders",
+   "themes": [
+    "genomics",
+    "health-env"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1007/s00180-018-0817-8",
+   "doi": "10.1007/s00180-018-0817-8",
+   "title": "Clusters of effects curves in quantile regression models",
+   "authors": [
+    "Gianluca Sottile",
+    "Giada Adelfio"
+   ],
+   "venue": "Computational Statistics",
+   "year": 2018,
+   "type": "article",
+   "url": "https://doi.org/10.1007/s00180-018-0817-8",
+   "oa_url": null,
+   "citations": 11,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "quantile",
+    "functional"
+   ],
+   "selected": false,
+   "links": [
+    {
+     "label": "clustEff",
+     "url": "https://cran.r-project.org/package=clustEff"
+    }
+   ]
+  },
+  {
+   "id": "10.1111/age.12719",
+   "doi": "10.1111/age.12719",
+   "title": "Genome‐wide association study reveals the locus responsible for microtia in Valle del Belice sheep breed",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Gianluca Sottile",
+    "Anna Maria Sutera",
+    "Rosalia Di Gerlando",
+    "Marco Tolone",
+    "Angelo Moscarelli",
+    "Maria Teresa Sardina",
+    "Baldassare Portolano"
+   ],
+   "venue": "Animal Genetics",
+   "year": 2018,
+   "type": "article",
+   "url": "https://doi.org/10.1111/age.12719",
+   "oa_url": null,
+   "citations": 17,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-quantile-regression-coefficients-modeling-a-penalized-approa",
+   "doi": null,
+   "title": "Quantile Regression Coefficients Modeling: a Penalized Approach",
+   "authors": [
+    "Gianluca Sottile"
+   ],
+   "venue": "",
+   "year": 2018,
+   "type": "article",
+   "url": "https://iris.unipa.it/handle/10447/425955",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse",
+    "quantile"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1111/age.12634",
+   "doi": "10.1111/age.12634",
+   "title": "Runs of homozygosity reveal genome‐wide autozygosity in Italian sheep breeds",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Elena Ciani",
+    "Maria Teresa Sardina",
+    "Gianluca Sottile",
+    "Fabio Pilla",
+    "Baldassare Portolano"
+   ],
+   "venue": "Animal Genetics",
+   "year": 2018,
+   "type": "article",
+   "url": "https://doi.org/10.1111/age.12634",
+   "oa_url": null,
+   "citations": 156,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-a-new-approach-for-clustering-of-effects-in-quantile-regress",
+   "doi": null,
+   "title": "A new approach for clustering of effects in quantile regression",
+   "authors": [
+    "Gianluca Sottile",
+    "Giada Adelfio"
+   ],
+   "venue": "",
+   "year": 2017,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/238651",
+   "oa_url": "http://hdl.handle.net/10447/238651",
+   "citations": 1,
+   "topic": "Advanced Statistical Methods and Models",
+   "themes": [
+    "quantile"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-depth-based-methods-for-clustering-of-functional-data",
+   "doi": null,
+   "title": "Depth-based methods for clustering of functional data.",
+   "authors": [
+    "Francesca Di Salvo",
+    "Giada Adelfio",
+    "Gianluca Sottile"
+   ],
+   "venue": "",
+   "year": 2017,
+   "type": "article",
+   "url": "https://iris.unipa.it/handle/10447/238443",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Advanced Clustering Algorithms Research",
+   "themes": [
+    "functional"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1186/s12711-017-0360-z",
+   "doi": "10.1186/s12711-017-0360-z",
+   "title": "Genome-wide scan for runs of homozygosity identifies potential candidate genes associated with local adaptation in Valle del Belice sheep",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Marco Tolone",
+    "Maria Teresa Sardina",
+    "Gianluca Sottile",
+    "Anna Maria Sutera",
+    "Rosalia Di Gerlando",
+    "Baldassare Portolano"
+   ],
+   "venue": "Genetics Selection Evolution",
+   "year": 2017,
+   "type": "article",
+   "url": "https://doi.org/10.1186/s12711-017-0360-z",
+   "oa_url": "https://gsejournal.biomedcentral.com/track/pdf/10.1186/s12711-017-0360-z",
+   "citations": 183,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "10.1017/s175173111700266x",
+   "doi": "10.1017/s175173111700266x",
+   "title": "Penalized classification for optimal statistical selection of markers from high-throughput genotyping: application in sheep breeds",
+   "authors": [
+    "Gianluca Sottile",
+    "Maria Teresa Sardina",
+    "Salvatore Mastrangelo",
+    "Rosalia Di Gerlando",
+    "Marco Tolone",
+    "Marcello Chiodi",
+    "Baldassare Portolano"
+   ],
+   "venue": "animal",
+   "year": 2017,
+   "type": "article",
+   "url": "https://doi.org/10.1017/s175173111700266x",
+   "oa_url": "https://www.sciencedirect.com/science/article/pii/S175173111700266X/pdf",
+   "citations": 6,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "sparse",
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-tuning-parameter-selection-in-lasso-regression",
+   "doi": null,
+   "title": "Tuning parameter selection in LASSO regression",
+   "authors": [
+    "Gianluca Sottile",
+    "Vito M. R. Muggeo"
+   ],
+   "venue": "",
+   "year": 2016,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/221666",
+   "oa_url": "http://hdl.handle.net/10447/221666",
+   "citations": 0,
+   "topic": "Statistical Methods and Inference",
+   "themes": [
+    "sparse"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-identification-of-breed-informative-single-nucleotide-polymo",
+   "doi": null,
+   "title": "Identification of breed informative single nucleotide polymorphisms for assigning individual in Sicilian dairy sheep",
+   "authors": [
+    "Salvatore Mastrangelo",
+    "Maria Teresa Sardina",
+    "Baldassare Portolano",
+    "Marcello Chiodi",
+    "Gianluca Sottile",
+    "Marco Tolone"
+   ],
+   "venue": "",
+   "year": 2015,
+   "type": "article",
+   "url": "http://hdl.handle.net/10447/136260",
+   "oa_url": "https://iris.unipa.it/bitstream/10447/136260/1/Proceedings%20of%20XXI%20ASPA%20Congress_2015.pdf",
+   "citations": 0,
+   "topic": "Genetic and phenotypic traits in livestock",
+   "themes": [
+    "genomics"
+   ],
+   "selected": false,
+   "links": []
+  },
+  {
+   "id": "oa-manuale-tecnico-applicativo-progetto-innova-uva-mazzarone-i-",
+   "doi": null,
+   "title": "Manuale tecnico applicativo Progetto: “Innova Uva Mazzarone I.U.M.",
+   "authors": [
+    "Paolo Inglese",
+    "Giuseppe Sortino",
+    "Claudio DE PASQUALE",
+    "Giorgia Liguori",
+    "Carlo Gambino",
+    "Giulia Cimò",
+    "Vincenzo Dispenza",
+    "Gianluca Sottile",
+    "M Schembari"
+   ],
+   "venue": "",
+   "year": 2014,
+   "type": "chapter",
+   "url": "http://hdl.handle.net/10447/100907",
+   "oa_url": null,
+   "citations": 0,
+   "topic": "Horticultural and Viticultural Research",
+   "themes": [],
+   "selected": false,
+   "links": []
+  }
+ ]
+}

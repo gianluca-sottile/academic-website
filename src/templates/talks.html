@@ -1,0 +1,11 @@
+{% extends "page.html" %}
+{% set page_title = t.talks_title %}
+{% block content %}
+<section class="section talks">
+  <ul class="talk-list">
+    {% for k in site.talks|sort(attribute='date', reverse=true) %}
+    <li><time datetime="{{ k.date }}">{{ k.date.year if k.date.year is defined else k.date }}</time> <span>{% if k.link %}<a href="{{ k.link }}" rel="noopener">{{ k.event }}</a>{% else %}{{ k.event }}{% endif %}, {{ k.place }}. {{ m.L(k.title) }}</span> {{ m.links(k.files) }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

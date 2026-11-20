@@ -1,0 +1,60 @@
+lang_name: Italiano
+switch_to: English
+skip: Vai al contenuto
+nav_research: Ricerca
+nav_projects: Progetti
+nav_teaching: Didattica
+nav_software: Software
+nav_publications: Pubblicazioni
+nav_career: Percorso
+nav_talks: Interventi
+nav_contact: Contatti
+theme_toggle: Cambia tema chiaro/scuro
+hero_axis: "log λ — dal modello più semplice al quadro completo"
+hero_hint: Ogni traiettoria è una parte del mio lavoro. Seguine una.
+about_title: Ricerca
+in_numbers_pubs: pubblicazioni
+in_numbers_cites: citazioni
+in_numbers_pkgs: pacchetti R su CRAN
+in_numbers_courses: corsi quest'anno
+cites_source: Citazioni da OpenAlex; Google Scholar riporta valori più alti.
+news_title: Novità
+projects_title: Progetti
+projects_funded: Progetto finanziato
+projects_open: Risorsa aperta
+projects_research: Iniziative di ricerca
+teaching_title: Didattica
+teaching_current: Quest'anno
+teaching_past: In passato
+teaching_open: Corso aperto
+pubs_title: Pubblicazioni scelte
+pubs_all: Tutte le pubblicazioni
+pubs_updated: Elenco aggiornato automaticamente da OpenAlex il
+software_title: Software
+software_paper: Articolo
+software_copy: Copia
+software_copied: Copiato
+career_title: Percorso
+career_present: oggi
+talks_title: Interventi e poster
+talks_all: Tutti gli interventi
+contact_title: Contatti
+contact_email: Email
+contact_office: Ufficio
+contact_map: Apri la mappa
+lang_badge_en: in inglese
+lang_badge_it: in italiano
+footer_built: Realizzato in HTML semplice. Le pubblicazioni si aggiornano ogni settimana.
+draft: bozza
+filter_label: Filtra le pubblicazioni
+filter_search: Cerca per titolo, autori, rivista
+filter_type: Tipo
+filter_all_types: Tutti i tipi
+filter_theme: Tema di ricerca
+filter_all_themes: Tutti i temi
+filter_empty: Nessuna pubblicazione corrisponde ai filtri.
+type_article: Articoli su rivista
+type_proceedings: Atti di convegno
+type_chapter: Capitoli di libro
+cv_download: Scarica il CV completo (PDF)
+open_access: Accesso aperto

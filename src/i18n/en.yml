@@ -1,0 +1,60 @@
+lang_name: English
+switch_to: Italiano
+skip: Skip to content
+nav_research: Research
+nav_projects: Projects
+nav_teaching: Teaching
+nav_software: Software
+nav_publications: Publications
+nav_career: Career
+nav_talks: Talks
+nav_contact: Contact
+theme_toggle: Switch light/dark theme
+hero_axis: "log λ — from the simplest model to the full picture"
+hero_hint: Each path is a part of my work. Follow one.
+about_title: Research
+in_numbers_pubs: publications
+in_numbers_cites: citations
+in_numbers_pkgs: R packages on CRAN
+in_numbers_courses: courses this year
+cites_source: Citation counts from OpenAlex; Google Scholar reports higher figures.
+news_title: Latest
+projects_title: Projects
+projects_funded: Funded project
+projects_open: Open resource
+projects_research: Research initiative
+teaching_title: Teaching
+teaching_current: This year
+teaching_past: Previously
+teaching_open: Open course
+pubs_title: Selected publications
+pubs_all: All publications
+pubs_updated: List updated automatically from OpenAlex on
+software_title: Software
+software_paper: Paper
+software_copy: Copy
+software_copied: Copied
+career_title: Career
+career_present: present
+talks_title: Talks and posters
+talks_all: All talks
+contact_title: Contact
+contact_email: Email
+contact_office: Office
+contact_map: Open map
+lang_badge_en: in English
+lang_badge_it: in Italian
+footer_built: Built with plain HTML. Publications refresh every week.
+draft: draft
+filter_label: Filter publications
+filter_search: Search titles, authors, journals
+filter_type: Type
+filter_all_types: All types
+filter_theme: Research theme
+filter_all_themes: All themes
+filter_empty: No publications match these filters.
+type_article: Journal articles
+type_proceedings: Proceedings
+type_chapter: Book chapters
+cv_download: Download the full CV (PDF)
+open_access: Open access

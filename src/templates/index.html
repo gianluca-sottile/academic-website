@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% block body %}
+{% set P = site.profile %}
+<section class="hero" aria-labelledby="hero-name">
+  <div class="hero-text">
+    <h1 id="hero-name">Gianluca Sottile</h1>
+    <p class="hero-role">{{ m.T(P.role) }}<br><a href="{{ P.affiliation.url }}">{{ m.T(P.affiliation.name) }}</a></p>
+    <p class="hero-tagline">{{ m.T(P.tagline) }}</p>
+    <ul class="hero-links">
+      {% for l in P.links %}<li><a href="{{ l.url|safe_url }}"{% if l.url.startswith('http') %} rel="noopener"{% endif %}>{{ l.label }}</a></li>{% endfor %}
+    </ul>
+  </div>
+  <figure class="hero-plot" aria-describedby="hero-caption">
+    <svg viewBox="-8 0 840 440" role="group" aria-label="{{ t.hero_hint }}">
+      <g class="grid" aria-hidden="true">
+        {% for x in range(0, 641, 64) %}<line x1="{{ x }}" y1="10" x2="{{ x }}" y2="410"/>{% endfor %}
+        {% for y in range(10, 411, 50) %}<line x1="0" y1="{{ y }}" x2="640" y2="{{ y }}"/>{% endfor %}
+        <line class="zero" x1="0" y1="210" x2="640" y2="210"/>
+      </g>
+      <g class="paths" transform="translate(0,0)">
+        {% for p in hero %}
+        {% set key = 'nav_' ~ p.section %}
+        <a class="path" href="#{{ p.section }}" style="--i:{{ loop.index0 }}">
+          <path d="{{ p.d }}" transform="translate(0,-10)" pathLength="1"/>
+          <circle cx="640" cy="{{ p.end_y - 10 }}" r="4"/>
+          <text x="654" y="{{ p.end_y - 5 }}">{{ t[key] }}</text>
+        </a>
+        {% endfor %}
+      </g>
+      <line class="lambda" x1="0" y1="10" x2="0" y2="410" aria-hidden="true"/>
+      <text class="axis" x="0" y="434" aria-hidden="true">{{ t.hero_axis }}</text>
+    </svg>
+    <figcaption id="hero-caption" class="hero-hint">{{ t.hero_hint }}</figcaption>
+  </figure>
+</section>
+
+<section id="research" class="section research">
+  <h2>{{ t.about_title }}</h2>
+  <div class="research-grid">
+    <div class="bio">
+      <p>{{ m.L(P.bio) }}</p>
+      <ul class="themes">
+        {% for th in P.research_themes %}<li><a href="{{ url_for('publications', lang) }}#theme={{ th.id }}">{{ m.T(th.label) }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <dl class="numbers">
+      <div><dt>{{ t.in_numbers_pubs }}</dt><dd data-count="pubs">{{ counts.pubs }}</dd></div>
+      <div><dt>{{ t.in_numbers_cites }}<sup>*</sup></dt><dd data-count="cites">{{ counts.cites }}</dd></div>
+      {% if counts.pkgs %}<div><dt>{{ t.in_numbers_pkgs }}</dt><dd data-count="pkgs">{{ counts.pkgs }}</dd></div>{% endif %}
+      {% if counts.courses %}<div><dt>{{ t.in_numbers_courses }}</dt><dd data-count="courses">{{ counts.courses }}</dd></div>{% endif %}
+      <p class="footnote"><sup>*</sup>{{ t.cites_source }} <a href="https://scholar.google.com/citations?user=Kr8_P5EAAAAJ" rel="noopener">Google Scholar</a></p>
+    </dl>
+  </div>
+</section>
+
+{% if site.news %}
+<section id="news" class="section news">
+  <h2>{{ t.news_title }}</h2>
+  <ol class="news-list">
+    {% for n in site.news|sort(attribute='date', reverse=true) %}{% if loop.index <= 5 %}
+    <li><time datetime="{{ n.date }}">{{ n.date.strftime('%m/%Y') if n.date.strftime is defined else n.date }}</time>
+      <p>{% if n.link %}<a href="{{ n.link }}" rel="noopener">{{ m.L(n.text) }}</a>{% else %}{{ m.L(n.text) }}{% endif %}</p></li>
+    {% endif %}{% endfor %}
+  </ol>
+</section>
+{% endif %}
+
+{% include "sections/projects.html" %}
+
+{% include "sections/teaching.html" %}
+
+{% set selected = site.publications|selectattr('selected')|list %}
+{% if site.publications %}
+<section id="publications" class="section publications">
+  <h2>{{ t.pubs_title }}</h2>
+  <ol class="pub-list">{% for p in selected %}{{ m.pub(p) }}{% endfor %}</ol>
+  <p><a class="more" href="{{ url_for('publications', lang) }}">{{ t.pubs_all }} ({{ counts.pubs }})</a></p>
+</section>
+{% endif %}
+
+{% include "sections/software.html" %}
+
+{% include "sections/career.html" %}
+
+{% if site.talks %}
+<section id="talks" class="section talks">
+  <h2>{{ t.talks_title }}</h2>
+  <ul class="talk-list">
+    {% for k in site.talks|sort(attribute='date', reverse=true) %}{% if loop.index <= 6 %}
+    <li><time datetime="{{ k.date }}">{{ k.date.year if k.date.year is defined else k.date }}</time> <span>{% if k.link %}<a href="{{ k.link }}" rel="noopener">{{ k.event }}</a>{% else %}{{ k.event }}{% endif %}, {{ k.place }}. {{ m.L(k.title) }}</span> {{ m.links(k.files) }}</li>
+    {% endif %}{% endfor %}
+  </ul>
+  <p><a class="more" href="{{ url_for('talks', lang) }}">{{ t.talks_all }}</a></p>
+</section>
+{% endif %}
+
+<section id="contact" class="section contact">
+  <h2>{{ t.contact_title }}</h2>
+  <dl class="contact-list">
+    <div><dt>{{ t.contact_email }}</dt><dd><a href="mailto:{{ P.contact.email }}">{{ P.contact.email }}</a></dd></div>
+    <div><dt>{{ t.contact_office }}</dt><dd>{{ m.T(P.contact.address) }} <a href="{{ P.contact.map }}" rel="noopener">{{ t.contact_map }}</a></dd></div>
+  </dl>
+</section>
+{% endblock %}

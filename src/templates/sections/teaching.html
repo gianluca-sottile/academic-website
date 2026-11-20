@@ -1,0 +1,37 @@
+{% if site.teaching %}
+<section id="teaching" class="section teaching">
+{% if not in_page %}  <h2>{{ t.nav_teaching }}</h2>{% endif %}
+  {% set current = site.teaching|selectattr('current')|rejectattr('level', 'equalto', 'open')|list %}
+  {% set openc = site.teaching|selectattr('level', 'equalto', 'open')|list %}
+  {% set past = site.teaching|rejectattr('current')|list %}
+  <div class="teach-grid">
+    <div>
+      <h3 class="sub">{{ t.teaching_current }}</h3>
+      <ul class="courses">
+        {% for c in current %}
+        <li class="course">
+          <h4>{{ m.L(c.title) }} <span class="lang-tag" lang="en">{{ c.language }}</span></h4>
+          <p class="course-meta">{{ m.T(c.programme) }}{% if c.ects %}, {{ c.ects }} CFU{% endif %}{% if c.hours %}, {{ c.hours }} h{% endif %}, {{ c.years }}</p>
+          {% if c.note %}<p class="course-meta"><em>{{ m.T(c.note) }}</em></p>{% endif %}
+          {% if c.summary %}<p>{{ m.L(c.summary) }}</p>{% endif %}
+          {% if c.links %}<p>{{ m.links(c.links) }}</p>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% for c in openc %}
+    <aside class="open-course">
+      <p class="proj-kind">{{ t.teaching_open }}</p>
+      <h3>{{ m.L(c.title) }}</h3>
+      <p>{{ m.L(c.summary) }}</p>
+      <p>{{ m.links(c.links) }}</p>
+    </aside>
+    {% endfor %}
+  </div>
+  {% if past %}
+  <details class="past-courses"><summary>{{ t.teaching_past }} ({{ past|length }})</summary>
+    <ul>{% for c in past %}<li>{{ m.T(c.title) }}, {{ m.T(c.programme) }}, {{ c.years }}</li>{% endfor %}</ul>
+  </details>
+  {% endif %}
+</section>
+{% endif %}

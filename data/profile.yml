@@ -1,0 +1,52 @@
+name: Gianluca Sottile
+research_themes:
+  - id: sparse
+    label: {en: Sparse models and variable selection, it: Modelli sparsi e selezione delle variabili}
+    openalex_keywords: [lasso, sparse, penaliz, variable selection, covariate selection, high dimensional, high-dimensional, regulariz, tuning parameter]
+  - id: graphical
+    label: {en: Graphical models and networks, it: Modelli grafici e reti}
+    openalex_keywords: [graphical, network]
+  - id: quantile
+    label: {en: Quantile regression and robust methods, it: Regressione quantile e metodi robusti}
+    openalex_keywords: [quantile, robust]
+  - id: functional
+    label: {en: Functional data analysis, it: Analisi di dati funzionali}
+    openalex_keywords: [functional, curves clustering, effects curves, spectral, distribution curves]
+  - id: genomics
+    label: {en: Statistical genomics, it: Genomica statistica}
+    openalex_keywords: [genome, genetic, snp, breed, homozygosity, marker, cnv, differential expression, lentivirus, haematopoietic]
+  - id: health-env
+    label: {en: Health and environmental applications, it: Applicazioni in salute e ambiente}
+    openalex_keywords: [asthma, children, cognitive, parkinson, alzheimer, dog, precipitation, rainfall, air quality, marine, ecg, vermetid, covid, epidemic, wind, energy, neurolog, rigidity, reflexes]
+role: {en: Associate Professor of Statistics, it: Professore Associato di Statistica}
+affiliation:
+  name: {en: University of Palermo, it: Università degli Studi di Palermo}
+  dept: {en: "Department of Economics, Business and Statistics (SEAS)", it: "Dipartimento di Scienze Economiche, Aziendali e Statistiche (SEAS)"}
+  url: https://www.unipa.it/dipartimenti/seas
+tagline:
+  en: I build statistical methods for high-dimensional, censored and functional data — and the open-source tools that make them usable.
+  it: Sviluppo metodi statistici per dati ad alta dimensionalità, censurati e funzionali — e gli strumenti open source per usarli.
+bio:
+  en: >-
+    Statistician and Associate Professor at the University of Palermo. My research sits at the junction of
+    statistical learning and inference: sparse and penalized models, Gaussian graphical models with censored
+    and missing data, quantile regression and functional data analysis, with applications in genomics,
+    health and the environment. I hold a PhD (Doctor Europaeus) from Palermo, with a visiting period at
+    the Karolinska Institutet, and I maintain several R packages on CRAN.
+  it: >-
+    Statistico e Professore Associato all'Università di Palermo. La mia ricerca si colloca tra statistical
+    learning e inferenza: modelli sparsi e penalizzati, modelli grafici gaussiani con dati censurati e
+    mancanti, regressione quantile e analisi di dati funzionali, con applicazioni in genomica, salute e
+    ambiente. Ho conseguito il dottorato (Doctor Europaeus) a Palermo, con un periodo di ricerca al
+    Karolinska Institutet, e sviluppo diversi pacchetti R pubblicati su CRAN.
+links:
+  - {id: cv, label: CV, url: /files/CV_gianluca_sottile.pdf, icon: file}
+  - {id: scholar, label: Google Scholar, url: "https://scholar.google.com/citations?user=Kr8_P5EAAAAJ", icon: scholar}
+  - {id: orcid, label: ORCID, url: "https://orcid.org/0000-0001-9347-7251", icon: orcid}
+  - {id: github, label: GitHub, url: "https://github.com/gianluca-sottile", icon: github}
+  - {id: researchgate, label: ResearchGate, url: "https://www.researchgate.net/profile/Gianluca-Sottile", icon: researchgate}
+  - {id: linkedin, label: LinkedIn, url: "https://www.linkedin.com/in/gianlucasottile/", icon: linkedin}
+contact:
+  email: gianluca.sottile@unipa.it
+  address: {en: "Viale delle Scienze, Building 13, Office 106 (1st floor), 90128 Palermo, Italy", it: "Viale delle Scienze, Edificio 13, Stanza 106 (1° piano), 90128 Palermo"}
+  map: "https://www.openstreetmap.org/?mlat=38.102999&mlon=13.348176#map=18/38.10300/13.34818"

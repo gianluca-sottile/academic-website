@@ -1,0 +1,13 @@
+{% macro L(v) %}{% set r = tr(v, lang) %}{% if r.lang != lang and r.text %}<span lang="{{ r.lang }}">{{ r.text }}</span><span class="lang-badge" title="{{ t['lang_badge_' ~ r.lang] }}">{{ r.lang }}</span>{% else %}{{ r.text }}{% endif %}{% endmacro %}
+{% macro T(v) %}{{ tr(v, lang).text }}{% endmacro %}
+{% macro links(items) %}{% for l in items or [] %}{% set u = l.url|safe_url %}{% if u %}<a class="chip" href="{{ u }}"{% if u.startswith('http') %} rel="noopener"{% endif %}>{{ T(l.label) }}</a>{% endif %}{% endfor %}{% endmacro %}
+{% macro authors(list, me="Sottile") %}{% for a in list %}{% if me in a %}<span class="me">{{ a }}</span>{% else %}{{ a }}{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}{% endmacro %}
+{% macro pub(p) %}
+<li class="pub" data-year="{{ p.year }}" data-type="{{ p.type }}" data-themes="{{ p.themes|join(' ') }}">
+  {% set href = (p.url|safe_url) or (('https://doi.org/' ~ p.doi) if p.doi else '') %}
+  {% if href %}<a class="pub-title" href="{{ href }}" rel="noopener">{{ p.title }}</a>{% else %}<span class="pub-title">{{ p.title }}</span>{% endif %}
+  {% if p.authors %}<span class="pub-authors">{{ authors(p.authors) }}</span>{% endif %}
+  <span class="pub-meta">{% if p.venue %}<em>{{ p.venue }}</em>, {% endif %}{{ p.year }}{% if p.citations %}<span class="cites" title="OpenAlex">{{ p.citations }} cit.</span>{% endif %}</span>
+  {% if p.links or p.oa_url %}<span class="pub-links">{% if p.oa_url|safe_url %}<a class="chip" href="{{ p.oa_url|safe_url }}" rel="noopener">{{ t.open_access }}</a>{% endif %}{{ links(p.links) }}</span>{% endif %}
+</li>
+{% endmacro %}
