@@ -15,16 +15,16 @@ LIST_FILES = ("news", "talks", "projects", "teaching", "roles", "software")
 REQUIRED = {
     "news": ("date", "text"),
     "talks": ("date", "title", "event", "place", "kind"),
-    "projects": ("title", "summary", "role", "period", "kind"),
+    "projects": ("title", "role", "period", "kind"),
     "teaching": ("title", "programme", "level", "language", "years"),
     "roles": ("title", "org", "start", "kind"),
     "software": ("name", "repo"),
 }
 ENUMS = {
-    ("talks", "kind"): {"talk", "poster", "invited", "keynote"},
+    ("talks", "kind"): {"talk", "poster", "invited", "keynote", "organizer", "committee", "chair"},
     ("projects", "kind"): {"funded", "open-resource", "research"},
-    ("teaching", "level"): {"BSc", "MSc", "PhD", "open"},
-    ("roles", "kind"): {"position", "visiting", "service", "education", "membership"},
+    ("teaching", "level"): {"BSc", "MSc", "Master", "PhD", "open"},
+    ("roles", "kind"): {"position", "visiting", "service", "honor", "education", "membership"},
 }
 # Content that must never be published (confidential / unpublished work).
 FORBIDDEN = [

@@ -7,6 +7,13 @@
       <div><h3>{{ m.L(r.title) }}</h3><p class="muted">{{ m.T(r.org) }}{% if r.place %}, {{ r.place }}{% endif %}</p>{% if r.description %}<p>{{ m.L(r.description) }}</p>{% endif %}</div></li>
     {% endfor %}
   </ol>
+  {% set honors = site.roles|selectattr('kind', 'in', ['service', 'honor'])|list %}
+  {% if honors %}
+  <h3 class="sub honors-title">{{ t.honors_title }}</h3>
+  <ul class="honors">
+    {% for r in honors %}<li><span class="tl-years">{{ (r.start|string)[:4] }}{% if r.kind == 'service' and not r.end %}–{% endif %}</span><div><p class="h-title">{{ m.L(r.title) }}</p><p class="muted">{{ m.T(r.org) }}{% if r.description %}. {{ m.L(r.description) }}{% endif %}</p></div></li>{% endfor %}
+  </ul>
+  {% endif %}
   <ul class="edu">
     {% for r in site.roles if r.kind in ('education', 'membership') %}
     <li><span class="tl-years">{{ (r.start|string)[:4] }}{% if r.end %}–{{ (r.end|string)[:4] }}{% endif %}</span> {{ m.T(r.title) }}, {{ m.T(r.org) }}{% if r.description %}. <span class="muted">{{ m.L(r.description) }}</span>{% endif %}</li>

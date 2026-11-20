@@ -1,52 +1,133 @@
 name: Gianluca Sottile
 research_themes:
-  - id: sparse
-    label: {en: Sparse models and variable selection, it: Modelli sparsi e selezione delle variabili}
-    openalex_keywords: [lasso, sparse, penaliz, variable selection, covariate selection, high dimensional, high-dimensional, regulariz, tuning parameter]
-  - id: graphical
-    label: {en: Graphical models and networks, it: Modelli grafici e reti}
-    openalex_keywords: [graphical, network]
-  - id: quantile
-    label: {en: Quantile regression and robust methods, it: Regressione quantile e metodi robusti}
-    openalex_keywords: [quantile, robust]
-  - id: functional
-    label: {en: Functional data analysis, it: Analisi di dati funzionali}
-    openalex_keywords: [functional, curves clustering, effects curves, spectral, distribution curves]
-  - id: genomics
-    label: {en: Statistical genomics, it: Genomica statistica}
-    openalex_keywords: [genome, genetic, snp, breed, homozygosity, marker, cnv, differential expression, lentivirus, haematopoietic]
-  - id: health-env
-    label: {en: Health and environmental applications, it: Applicazioni in salute e ambiente}
-    openalex_keywords: [asthma, children, cognitive, parkinson, alzheimer, dog, precipitation, rainfall, air quality, marine, ecg, vermetid, covid, epidemic, wind, energy, neurolog, rigidity, reflexes]
-role: {en: Associate Professor of Statistics, it: Professore Associato di Statistica}
+- id: sparse
+  label:
+    en: Sparse models and variable selection
+    it: Modelli sparsi e selezione delle variabili
+  openalex_keywords:
+  - lasso
+  - sparse
+  - penaliz
+  - variable selection
+  - covariate selection
+  - high dimensional
+  - high-dimensional
+  - regulariz
+  - tuning parameter
+- id: graphical
+  label:
+    en: Graphical models and networks
+    it: Modelli grafici e reti
+  openalex_keywords:
+  - graphical
+  - network
+- id: quantile
+  label:
+    en: Quantile regression and robust methods
+    it: Regressione quantile e metodi robusti
+  openalex_keywords:
+  - quantile
+  - robust
+- id: functional
+  label:
+    en: Functional data analysis
+    it: Analisi di dati funzionali
+  openalex_keywords:
+  - functional
+  - curves clustering
+  - effects curves
+  - spectral
+  - distribution curves
+- id: genomics
+  label:
+    en: Statistical genomics
+    it: Genomica statistica
+  openalex_keywords:
+  - genome
+  - genetic
+  - snp
+  - breed
+  - homozygosity
+  - marker
+  - cnv
+  - differential expression
+  - lentivirus
+  - haematopoietic
+- id: health-env
+  label:
+    en: Health and environmental applications
+    it: Applicazioni in salute e ambiente
+  openalex_keywords:
+  - asthma
+  - children
+  - cognitive
+  - parkinson
+  - alzheimer
+  - dog
+  - precipitation
+  - rainfall
+  - air quality
+  - marine
+  - ecg
+  - vermetid
+  - covid
+  - epidemic
+  - wind
+  - energy
+  - neurolog
+  - rigidity
+  - reflexes
+role:
+  en: Associate Professor of Statistics (STAT-01/A)
+  it: Professore Associato di Statistica (STAT-01/A)
 affiliation:
-  name: {en: University of Palermo, it: Università degli Studi di Palermo}
-  dept: {en: "Department of Economics, Business and Statistics (SEAS)", it: "Dipartimento di Scienze Economiche, Aziendali e Statistiche (SEAS)"}
+  name:
+    en: University of Palermo
+    it: Università degli Studi di Palermo
+  dept:
+    en: Department of Economics, Business and Statistics (SEAS)
+    it: Dipartimento di Scienze Economiche, Aziendali e Statistiche (SEAS)
   url: https://www.unipa.it/dipartimenti/seas
 tagline:
   en: I build statistical methods for high-dimensional, censored and functional data — and the open-source tools that make them usable.
   it: Sviluppo metodi statistici per dati ad alta dimensionalità, censurati e funzionali — e gli strumenti open source per usarli.
 bio:
-  en: >-
-    Statistician and Associate Professor at the University of Palermo. My research sits at the junction of
-    statistical learning and inference: sparse and penalized models, Gaussian graphical models with censored
-    and missing data, quantile regression and functional data analysis, with applications in genomics,
-    health and the environment. I hold a PhD (Doctor Europaeus) from Palermo, with a visiting period at
-    the Karolinska Institutet, and I maintain several R packages on CRAN.
-  it: >-
-    Statistico e Professore Associato all'Università di Palermo. La mia ricerca si colloca tra statistical
-    learning e inferenza: modelli sparsi e penalizzati, modelli grafici gaussiani con dati censurati e
-    mancanti, regressione quantile e analisi di dati funzionali, con applicazioni in genomica, salute e
-    ambiente. Ho conseguito il dottorato (Doctor Europaeus) a Palermo, con un periodo di ricerca al
-    Karolinska Institutet, e sviluppo diversi pacchetti R pubblicati su CRAN.
+  en: I am an Associate Professor of Statistics at the Department of Economics, Business and Statistics, University of Palermo. My research lies in methodological and computational statistics, with a focus on penalized models, graphical inference, quantile regression, and functional and high-dimensional data analysis. These methodological interests are accompanied by interdisciplinary applications in environmental, biomedical, and genomic research. I earned my PhD in Statistics with the Doctor Europaeus distinction and have been involved in several national research projects, including PRIN initiatives on graphical models, air pollution, asthma, and earthquake forecasting. I am also co-inventor of an Italian patent in the field of genetic authentication of agri-food products. I regularly use R for research, teaching, and methodological development.
+  it: Sono Professore Associato di Statistica presso il Dipartimento di Scienze Economiche, Aziendali e Statistiche dell'Università degli Studi di Palermo. La mia attività scientifica si colloca nell'ambito della statistica metodologica e computazionale, con particolare riferimento a modelli penalizzati, inferenza grafica, regressione quantilica e analisi di dati funzionali e ad alta dimensionalità. I miei interessi metodologici si accompagnano ad applicazioni interdisciplinari in ambito ambientale, biomedico e genomico. Ho conseguito il dottorato in Statistica con menzione di Doctor Europaeus e ho partecipato a diversi progetti di ricerca nazionali, tra cui PRIN su modelli grafici, qualità dell'aria, asma ed eventi sismici. Sono inoltre co-inventore di un brevetto italiano nell'ambito dell'autenticazione genetica dei prodotti agroalimentari. Utilizzo abitualmente R per ricerca, didattica e sviluppo metodologico.
 links:
-  - {id: cv, label: CV, url: /files/CV_gianluca_sottile.pdf, icon: file}
-  - {id: scholar, label: Google Scholar, url: "https://scholar.google.com/citations?user=Kr8_P5EAAAAJ", icon: scholar}
-  - {id: orcid, label: ORCID, url: "https://orcid.org/0000-0001-9347-7251", icon: orcid}
-  - {id: github, label: GitHub, url: "https://github.com/gianluca-sottile", icon: github}
-  - {id: researchgate, label: ResearchGate, url: "https://www.researchgate.net/profile/Gianluca-Sottile", icon: researchgate}
-  - {id: linkedin, label: LinkedIn, url: "https://www.linkedin.com/in/gianlucasottile/", icon: linkedin}
+- id: cv
+  label: CV
+  url: /files/CV_gianluca_sottile.pdf
+- id: unipa
+  label: UniPa
+  url: https://www.unipa.it/persone/docenti/s/gianluca.sottile
+- id: scholar
+  label: Google Scholar
+  url: https://scholar.google.com/citations?user=qc0KUpwAAAAJ&sortby=pubdate
+- id: orcid
+  label: ORCID
+  url: https://orcid.org/0000-0001-9347-7251
+- id: scopus
+  label: Scopus
+  url: https://www.scopus.com/authid/detail.uri?authorId=57197724197
+- id: wos
+  label: Web of Science
+  url: https://www.webofscience.com/wos/author/record/P-1732-2018
+- id: github
+  label: GitHub
+  url: https://github.com/gianluca-sottile
+- id: researchgate
+  label: ResearchGate
+  url: https://www.researchgate.net/profile/Gianluca-Sottile
+- id: linkedin
+  label: LinkedIn
+  url: https://www.linkedin.com/in/gianlucasottile/
 contact:
   email: gianluca.sottile@unipa.it
-  address: {en: "Viale delle Scienze, Building 13, Office 106 (1st floor), 90128 Palermo, Italy", it: "Viale delle Scienze, Edificio 13, Stanza 106 (1° piano), 90128 Palermo"}
-  map: "https://www.openstreetmap.org/?mlat=38.102999&mlon=13.348176#map=18/38.10300/13.34818"
+  address:
+    en: Viale delle Scienze, Building 13, 90128 Palermo, Italy
+    it: Viale delle Scienze, Edificio 13, 90128 Palermo
+  map: https://www.openstreetmap.org/?mlat=38.102999&mlon=13.348176#map=18/38.10300/13.34818
+  hours:
+    en: By appointment via email
+    it: Su appuntamento via email

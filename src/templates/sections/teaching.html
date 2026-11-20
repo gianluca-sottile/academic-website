@@ -11,7 +11,7 @@
         {% for c in current %}
         <li class="course">
           <h4>{{ m.L(c.title) }} <span class="lang-tag" lang="en">{{ c.language }}</span></h4>
-          <p class="course-meta">{{ m.T(c.programme) }}{% if c.ects %}, {{ c.ects }} CFU{% endif %}{% if c.hours %}, {{ c.hours }} h{% endif %}, {{ c.years }}</p>
+          <p class="course-meta">{% if c.level in ("Master", "PhD") %}{{ t["level_" ~ c.level] }}. {% endif %}{{ m.T(c.programme) }}{% if c.ects %}, {{ c.ects }} CFU{% endif %}{% if c.hours %}, {{ c.hours }} h{% endif %}, {{ c.years }}</p>
           {% if c.note %}<p class="course-meta"><em>{{ m.T(c.note) }}</em></p>{% endif %}
           {% if c.summary %}<p>{{ m.L(c.summary) }}</p>{% endif %}
           {% if c.links %}<p>{{ m.links(c.links) }}</p>{% endif %}
@@ -30,7 +30,7 @@
   </div>
   {% if past %}
   <details class="past-courses"><summary>{{ t.teaching_past }} ({{ past|length }})</summary>
-    <ul>{% for c in past %}<li>{{ m.T(c.title) }}, {{ m.T(c.programme) }}, {{ c.years }}</li>{% endfor %}</ul>
+    <ul>{% for c in past %}<li><strong>{{ m.T(c.title) }}</strong>, {{ m.T(c.programme) }}{% if c.ects %}, {{ c.ects }} CFU{% endif %}, {{ c.years }}</li>{% endfor %}</ul>
   </details>
   {% endif %}
 </section>

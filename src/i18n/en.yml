@@ -58,3 +58,20 @@ type_proceedings: Proceedings
 type_chapter: Book chapters
 cv_download: Download the full CV (PDF)
 open_access: Open access
+talks_invited: Invited talks
+talks_contributed: Contributed talks and posters
+talks_org: Scientific organisation
+kind_invited: Invited
+kind_talk: Contributed
+kind_poster: Poster
+kind_keynote: Keynote
+kind_organizer: Organising committee
+kind_committee: Scientific committee
+kind_chair: Session chair
+honors_title: Honours and service
+level_Master: Second-level Master
+level_PhD: PhD course
+level_BSc: BSc
+level_MSc: MSc
+projects_all: All projects
+contact_hours: Office hours

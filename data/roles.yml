@@ -1,44 +1,81 @@
+# kind: position | visiting | service | honor | education | membership
 - id: assoc-prof
-  title: {en: Associate Professor of Statistics (SECS-S/01), it: Professore Associato di Statistica (SECS-S/01)}
-  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  title: {en: "Associate Professor (STAT-01/A)", it: "Professore Associato (STAT-01/A)"}
+  org: {en: "University of Palermo — Dept. SEAS", it: "Università di Palermo — Dip. SEAS"}
   start: 2025-08
   kind: position
 - id: rtdb
-  title: {en: Tenure-track Assistant Professor (RTD-B), it: Ricercatore a tempo determinato di tipo B}
-  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  title: {en: "Senior Assistant Professor (RTD-B)", it: "Ricercatore a tempo determinato di tipo B (RTD-B)"}
+  org: {en: "University of Palermo — Dept. SEAS (13/STAT-01)", it: "Università di Palermo — Dip. SEAS (13/STAT-01)"}
   start: 2022-08
   end: 2025-07
   kind: position
 - id: rtda
-  title: {en: "Assistant Professor (RTD-A, PON-AIM)", it: "Ricercatore a tempo determinato di tipo A (PON-AIM)"}
-  org: {en: University of Palermo — Dept. SEAS, it: Università di Palermo — Dip. SEAS}
+  title: {en: "Junior Assistant Professor (RTD-A)", it: "Ricercatore a tempo determinato di tipo A (RTD-A)"}
+  org: {en: "University of Palermo — Dept. SEAS (13/STAT-04)", it: "Università di Palermo — Dip. SEAS (13/STAT-04)"}
   start: 2019-07
   end: 2022-07
   kind: position
 - id: postdoc
   title: {en: Postdoctoral Research Fellow, it: Assegnista di ricerca}
-  org: {en: University of Palermo — Depts. SEAS and Agricultural and Forestry Sciences, it: Università di Palermo — Dip. SEAS e Scienze Agrarie e Forestali}
-  start: 2018-03
+  org: {en: "University of Palermo — Dept. SEAS", it: "Università di Palermo — Dip. SEAS"}
+  start: 2018-02
   end: 2019-02
-  description: {en: Statistical selection of SNPs for traceability and authentication of PDO dairy products from Sicilian sheep breeds., it: Selezione statistica di SNP per la tracciabilità e l'autenticazione di prodotti lattiero-caseari DOP da razze ovine siciliane.}
+  description: {en: "Statistical techniques for SNP selection in the traceability of typical Sicilian dairy products (PON PROFOOD).", it: "Tecniche statistiche per la selezione di SNP nella tracciabilità di prodotti lattiero-caseari tipici siciliani (PON PROFOOD)."}
   kind: position
+- id: usi
+  title: {en: Visiting Researcher, it: Visiting researcher}
+  org: Institute of Computational Science, USI Lugano
+  start: 2021-01
+  end: 2021-07
+  description: {en: "Collaboration on the cglasso R package with L. Augugliaro, V. Vinciotti and E.C. Wit.", it: "Collaborazione sul pacchetto R cglasso con L. Augugliaro, V. Vinciotti ed E.C. Wit."}
+  kind: visiting
+- id: irib-cnr
+  title: {en: "Research Fellowship (IRIB-CNR)", it: "Collaboratore della ricerca (IRIB-CNR)"}
+  org: {en: "Institute for Biomedical Research and Innovation, CNR Palermo", it: "Istituto per la Ricerca e l'Innovazione Biomedica, CNR Palermo"}
+  start: 2020-02
+  end: 2021-02
+  description: {en: "CHASER study: modelling childhood asthma chronicity (coordinator Dr S. La Grutta).", it: "Studio CHASER: modellizzazione della cronicità dell'asma infantile (responsabile Dr.ssa S. La Grutta)."}
+  kind: visiting
 - id: karolinska
   title: {en: Visiting Researcher, it: Visiting researcher}
-  org: Karolinska Institutet — Institute of Environmental Medicine
+  org: "Institute of Environmental Medicine, Karolinska Institutet"
   place: Stockholm
   start: 2016-09
   end: 2016-12
-  description: {en: Visiting period during the PhD under the supervision of Prof. M. Bottai., it: Periodo di ricerca durante il dottorato con il Prof. M. Bottai.}
+  description: {en: "Supervisor: Prof. M. Bottai.", it: "Supervisore: Prof. M. Bottai."}
   kind: visiting
+- id: scirep
+  title: {en: "Editorial Board Member — Scientific Reports (Computational Science)", it: "Membro dell'Editorial Board — Scientific Reports (Computational Science)"}
+  org: Nature Portfolio
+  start: 2023
+  kind: service
+- id: asn
+  title: {en: "National Scientific Qualification (ASN) — Associate Professor, 13/D1", it: "Abilitazione Scientifica Nazionale (ASN) — Seconda fascia, 13/D1"}
+  org: MUR
+  start: 2020
+  description: {en: Valid until 2032., it: Valida fino al 2032.}
+  kind: honor
+- id: poster-award
+  title: {en: "Best Poster Award (3rd prize) — SIS 2025, Genova", it: "Best Poster Award (3° premio) — SIS 2025, Genova"}
+  org: Società Italiana di Statistica
+  start: 2025
+  description: "Time Series Bootstrap for Renewable Energy Analysis in Power Grid Optimization (G. Marcon, A. Marletta, S. Moradi, G. Zizzo, S. Favuzza, G. Sottile)."
+  kind: honor
+- id: patent
+  title: {en: "Italian patent n. 102016000104381", it: "Brevetto italiano n. 102016000104381"}
+  org: {en: "Method for the authentication of dairy products through single nucleotide polymorphism analysis", it: "Metodo per l'autenticazione di prodotti alimentari lattiero-caseari mediante analisi di polimorfismi a singolo nucleotide"}
+  start: 2016
+  description: "M. Chiodi, R. Di Gerlando, S. Mastrangelo, B. Portolano, M.T. Sardina, G. Sottile, M. Tolone."
+  kind: honor
 - id: phd
   title: {en: "PhD in Statistics — Doctor Europaeus", it: "Dottorato di ricerca in Statistica — Doctor Europaeus"}
   org: {en: University of Palermo, it: Università di Palermo}
-  start: 2015
-  end: 2017
-  description: {en: "Thesis: Penalized regression and clustering in high dimensional data (supervisor Prof. M. Chiodi).", it: "Tesi: Penalized regression and clustering in high dimensional data (relatore Prof. M. Chiodi)."}
+  start: 2018
+  description: {en: "Thesis: Penalized regression and clustering in high-dimensional data.", it: "Tesi: Penalized regression and clustering in high-dimensional data."}
   kind: education
 - id: msc
-  title: {en: MSc in Statistical Sciences (cum laude), it: Laurea magistrale in Scienze Statistiche (con lode)}
+  title: {en: "MSc in Statistical Sciences (110/110 cum laude)", it: "Laurea magistrale in Scienze Statistiche (110/110 e lode)"}
   org: {en: University of Palermo, it: Università di Palermo}
   start: 2014
   kind: education
@@ -50,5 +87,10 @@
 - id: sis
   title: {en: Member, it: Socio}
   org: {en: Italian Statistical Society (SIS), it: Società Italiana di Statistica (SIS)}
+  start: 2019
+  kind: membership
+- id: sms
+  title: {en: Member, it: Socio}
+  org: Statistical Modelling Society
   start: 2016
   kind: membership

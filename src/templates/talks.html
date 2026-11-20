@@ -1,11 +1,11 @@
 {% extends "page.html" %}
 {% set page_title = t.talks_title %}
 {% block content %}
-<section class="section talks">
-  <ul class="talk-list">
-    {% for k in site.talks|sort(attribute='date', reverse=true) %}
-    <li><time datetime="{{ k.date }}">{{ k.date.year if k.date.year is defined else k.date }}</time> <span>{% if k.link %}<a href="{{ k.link }}" rel="noopener">{{ k.event }}</a>{% else %}{{ k.event }}{% endif %}, {{ k.place }}. {{ m.L(k.title) }}</span> {{ m.links(k.files) }}</li>
-    {% endfor %}
-  </ul>
-</section>
+{% set talks = site.talks|sort(attribute='date', reverse=true) %}
+{% set invited = talks|selectattr('kind', 'in', ['invited', 'keynote'])|list %}
+{% set contributed = talks|selectattr('kind', 'in', ['talk', 'poster'])|list %}
+{% set org = talks|selectattr('kind', 'in', ['organizer', 'committee', 'chair'])|list %}
+{% if invited %}<section class="section talks"><h2>{{ t.talks_invited }}</h2><ul class="talk-list">{% for k in invited %}{{ m.talk(k) }}{% endfor %}</ul></section>{% endif %}
+{% if contributed %}<section class="section talks"><h2>{{ t.talks_contributed }}</h2><ul class="talk-list">{% for k in contributed %}{{ m.talk(k) }}{% endfor %}</ul></section>{% endif %}
+{% if org %}<section class="section talks"><h2>{{ t.talks_org }}</h2><ul class="talk-list">{% for k in org %}{{ m.talk(k) }}{% endfor %}</ul></section>{% endif %}
 {% endblock %}

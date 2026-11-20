@@ -1,57 +1,60 @@
+- id: master-ml
+  title: {en: Introduction to Machine Learning, it: Introduzione al Machine Learning}
+  programme: {en: "Second-level Master in Data Science for Public and Private Administrations — SEAS", it: "Master universitario di II livello in Data Science per le Amministrazioni Pubbliche e Private — SEAS"}
+  level: Master
+  language: IT
+  ects: 2.5
+  hours: 20
+  years: Jan 2026 –
+  current: true
+  links:
+    - {label: {en: Information sheet, it: Scheda informativa}, url: "https://www.unipa.it/servizi/masterecorsidiperfezionamento/.content/documenti/2025_2026/S.I.-Adelfio.pdf"}
+    - {label: Homepage, url: "https://sites.google.com/community.unipa.it/master-data-science/home-page"}
 - id: sml
   title: Statistical Machine Learning
-  programme: {en: "MSc Statistics and Data Science (LM-82)", it: "LM Statistica e Data Science (LM-82)"}
+  programme: {en: "MSc Statistics and Data Science (LM-82/LM-Data) — SEAS", it: "LM Statistica e Data Science (LM-82/LM-Data) — SEAS"}
   level: MSc
   language: EN
   ects: 6
   hours: 42
-  years: 2023/24 –
-  note: {en: "Formerly Optimization for Statistical and Machine Learning", it: "In precedenza Optimization for Statistical and Machine Learning"}
+  years: Sep 2024 –
   current: true
+  note: {en: "Formerly Optimization for Statistical and Machine Learning", it: "In precedenza Optimization for Statistical and Machine Learning"}
   summary:
     en: From regularised regression to trees, ensembles, SVMs, neural networks and clustering — 21 units with R labs (tidymodels, ranger, keras3).
     it: Dalla regressione regolarizzata ad alberi, ensemble, SVM, reti neurali e clustering — 21 unità con laboratori in R (tidymodels, ranger, keras3).
+  links:
+    - {label: {en: Course sheet, it: Scheda trasparenza}, url: "https://offertaformativa.unipa.it/offweb/schedaTrasparenza?lingua=ITA&oidCurrInsegnamento=203436"}
+    - {label: {en: Course materials, it: Materiale didattico}, url: "https://www.dropbox.com/scl/fo/tjud4hqc0iucqtq977hww/AIhiStbQhWKRQCTyq4XfbDo?rlkey=dw1rsrqvtoh8eewthko3qssph&dl=0"}
 - id: statistica-l18
-  title: Statistica
-  programme: {en: "BSc Business Economics and Administration (L-18)", it: "Economia e Amministrazione Aziendale (L-18)"}
+  title: {en: Statistics, it: Statistica}
+  programme: {en: "BSc Business Economics and Administration (L-18) — SEAS", it: "Economia e Amministrazione Aziendale (L-18) — SEAS"}
   level: BSc
   language: IT
   ects: 8
-  years: 2024/25 –
+  years: Sep 2025 –
   current: true
   summary:
     en: Introductory statistics — descriptive statistics, bivariate analysis and linear regression, with annotated formula sheets.
     it: Statistica di base — statistica descrittiva, analisi bivariata e regressione lineare, con formulari riassuntivi commentati.
-- id: financial-lab
-  title: {en: Financial Markets Laboratory, it: Laboratorio di Mercati Finanziari}
-  programme: {en: "MSc Statistics and Data Science (LM-82)", it: "LM Statistica e Data Science (LM-82)"}
-  level: MSc
-  language: IT
+  links:
+    - {label: {en: Course sheet, it: Scheda trasparenza}, url: "https://offertaformativa.unipa.it/offweb/schedaTrasparenza?lingua=ITA&oidCurrInsegnamento=198678"}
+    - {label: {en: Course materials, it: Materiale didattico}, url: "https://www.dropbox.com/scl/fo/eks4ly7qmevzhyqitzpjk/AF4fiFGwsxfH6Bzjhv4YBc4?rlkey=iyus77gzw8cak7hh2ynzsr92x&dl=0"}
+- id: phd-sml
+  title: Statistical Machine Learning
+  programme: {en: "PhD in Economics, Business and Statistics — SEAS", it: "Dottorato in Economia, Management e Statistica — SEAS"}
+  level: PhD
+  language: EN
   ects: 3
-  years: 2020/21 –
-  current: false
-- id: stat-architecture
-  title: Statistica
-  programme: {en: "BSc — Department of Architecture", it: "Corso di laurea — Dipartimento di Architettura"}
-  level: BSc
-  language: IT
-  ects: 6
-  years: 2019/20
-  current: false
-- id: stat-biology
-  title: Statistica
-  programme: {en: "BSc — Department of Earth and Marine Sciences (DiSTeM)", it: "Corso di laurea — Dipartimento DiSTeM"}
-  level: BSc
-  language: IT
-  ects: 6
-  years: 2018/19
+  hours: 15
+  years: Jan 2025
   current: false
 - id: r-course
   title: From Data to Models with R
-  programme: {en: Open online course, it: Corso online aperto}
+  programme: {en: "Open online course (born as the PhD tutorial An R Tutorial for Beginners, 2020)", it: "Corso online aperto (nato dal tutorial di dottorato An R Tutorial for Beginners, 2020)"}
   level: open
   language: EN/IT
-  years: 2026
+  years: 2020 –
   current: true
   summary:
     en: A free, bilingual course in statistics and machine learning with R — 67 lessons on 4 levels, 340+ exercises with solutions, 130+ runnable in the browser.
@@ -59,3 +62,43 @@
   links:
     - {label: {en: Open the course, it: Apri il corso}, url: "https://gianluca-sottile.github.io/An-R-Tutorial-for-Beginners/"}
     - {label: GitHub, url: "https://github.com/gianluca-sottile/An-R-Tutorial-for-Beginners"}
+- id: stat-l8
+  title: {en: Statistics, it: Statistica}
+  programme: {en: "BSc Computer Engineering (L-8) — Engineering", it: "Ingegneria Informatica (L-8) — Ingegneria"}
+  level: BSc
+  language: IT
+  ects: 9
+  years: 2023/24
+  current: false
+- id: optimization
+  title: Optimization for Statistical and Machine Learning
+  programme: {en: "MSc Statistics and Data Science (LM-82) — SEAS", it: "LM Statistica e Data Science (LM-82) — SEAS"}
+  level: MSc
+  language: EN
+  ects: 6
+  years: 2023/24
+  current: false
+- id: financial-lab
+  title: {en: Financial Markets Laboratory, it: Laboratorio di Mercati Finanziari}
+  programme: {en: "MSc Statistics and Data Science (LM-82) — SEAS", it: "LM Statistica e Data Science (LM-82) — SEAS"}
+  level: MSc
+  language: IT
+  ects: 3
+  years: 2021/22 – 2023/24
+  current: false
+- id: stat-design
+  title: {en: Statistics, it: Statistica}
+  programme: {en: "BSc Industrial Design (L-4) — Architecture", it: "Disegno Industriale (L-4) — Architettura"}
+  level: BSc
+  language: IT
+  ects: 6
+  years: 2018/19
+  current: false
+- id: stat-distem
+  title: {en: Statistics, it: Statistica}
+  programme: {en: "BSc Biology / Natural Sciences — Earth and Marine Sciences (DiSTeM)", it: "Biologia / Scienze Naturali — Scienze della Terra e del Mare (DiSTeM)"}
+  level: BSc
+  language: IT
+  ects: 6
+  years: 2017/18
+  current: false

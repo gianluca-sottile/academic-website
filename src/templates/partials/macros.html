@@ -11,3 +11,14 @@
   {% if p.links or p.oa_url %}<span class="pub-links">{% if p.oa_url|safe_url %}<a class="chip" href="{{ p.oa_url|safe_url }}" rel="noopener">{{ t.open_access }}</a>{% endif %}{{ links(p.links) }}</span>{% endif %}
 </li>
 {% endmacro %}
+{% macro talk(k) %}
+<li class="talk talk-{{ k.kind }}">
+  <time datetime="{{ k.date }}">{{ k.date.year if k.date.year is defined else (k.date|string)[:4] }}</time>
+  <div>
+    <p class="talk-title">{{ L(k.title) }}{% if k.award %} <span class="award">{{ T(k.award) }}</span>{% endif %}</p>
+    {% if k.authors %}<p class="talk-authors">{{ authors(k.authors.split(', ')) }}</p>{% endif %}
+    <p class="talk-meta">{% if k.link %}<a href="{{ k.link|safe_url }}" rel="noopener">{{ k.event }}</a>{% else %}{{ k.event }}{% endif %}, {{ k.place }}<span class="kind">{{ t['kind_' ~ k.kind] }}</span></p>
+    {% if k.files %}<p>{{ links(k.files) }}</p>{% endif %}
+  </div>
+</li>
+{% endmacro %}

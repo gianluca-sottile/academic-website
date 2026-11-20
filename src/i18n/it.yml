@@ -58,3 +58,20 @@ type_proceedings: Atti di convegno
 type_chapter: Capitoli di libro
 cv_download: Scarica il CV completo (PDF)
 open_access: Accesso aperto
+talks_invited: Relazioni su invito
+talks_contributed: Comunicazioni e poster
+talks_org: Organizzazione scientifica
+kind_invited: Invitato
+kind_talk: Comunicazione
+kind_poster: Poster
+kind_keynote: Keynote
+kind_organizer: Comitato organizzatore
+kind_committee: Comitato scientifico
+kind_chair: Chair di sessione
+honors_title: Riconoscimenti e incarichi
+level_Master: Master di II livello
+level_PhD: Corso di dottorato
+level_BSc: Laurea triennale
+level_MSc: Laurea magistrale
+projects_all: Tutti i progetti
+contact_hours: Ricevimento

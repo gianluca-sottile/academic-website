@@ -48,7 +48,7 @@
       <div><dt>{{ t.in_numbers_cites }}<sup>*</sup></dt><dd data-count="cites">{{ counts.cites }}</dd></div>
       {% if counts.pkgs %}<div><dt>{{ t.in_numbers_pkgs }}</dt><dd data-count="pkgs">{{ counts.pkgs }}</dd></div>{% endif %}
       {% if counts.courses %}<div><dt>{{ t.in_numbers_courses }}</dt><dd data-count="courses">{{ counts.courses }}</dd></div>{% endif %}
-      <p class="footnote"><sup>*</sup>{{ t.cites_source }} <a href="https://scholar.google.com/citations?user=Kr8_P5EAAAAJ" rel="noopener">Google Scholar</a></p>
+      <p class="footnote"><sup>*</sup>{{ t.cites_source }} <a href="https://scholar.google.com/citations?user=qc0KUpwAAAAJ" rel="noopener">Google Scholar</a></p>
     </dl>
   </div>
 </section>
@@ -86,9 +86,7 @@
 <section id="talks" class="section talks">
   <h2>{{ t.talks_title }}</h2>
   <ul class="talk-list">
-    {% for k in site.talks|sort(attribute='date', reverse=true) %}{% if loop.index <= 6 %}
-    <li><time datetime="{{ k.date }}">{{ k.date.year if k.date.year is defined else k.date }}</time> <span>{% if k.link %}<a href="{{ k.link }}" rel="noopener">{{ k.event }}</a>{% else %}{{ k.event }}{% endif %}, {{ k.place }}. {{ m.L(k.title) }}</span> {{ m.links(k.files) }}</li>
-    {% endif %}{% endfor %}
+    {% for k in site.talks|selectattr('kind', 'in', ['invited', 'talk', 'poster', 'keynote'])|sort(attribute='date', reverse=true) %}{% if loop.index <= 6 %}{{ m.talk(k) }}{% endif %}{% endfor %}
   </ul>
   <p><a class="more" href="{{ url_for('talks', lang) }}">{{ t.talks_all }}</a></p>
 </section>
@@ -99,6 +97,7 @@
   <dl class="contact-list">
     <div><dt>{{ t.contact_email }}</dt><dd><a href="mailto:{{ P.contact.email }}">{{ P.contact.email }}</a></dd></div>
     <div><dt>{{ t.contact_office }}</dt><dd>{{ m.T(P.contact.address) }} <a href="{{ P.contact.map }}" rel="noopener">{{ t.contact_map }}</a></dd></div>
+    {% if P.contact.hours %}<div><dt>{{ t.contact_hours }}</dt><dd>{{ m.T(P.contact.hours) }}</dd></div>{% endif %}
   </dl>
 </section>
 {% endblock %}

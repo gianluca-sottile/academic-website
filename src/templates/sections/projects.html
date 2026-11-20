@@ -16,10 +16,11 @@
   </div>
   {% if others %}
   <ul class="proj-others">
-    {% for p in others %}
-    <li><h3>{{ m.L(p.title) }}</h3><p class="proj-meta">{{ m.T(p.role) }}, {{ p.period }}</p><p>{{ m.L(p.summary) }}</p><p class="proj-links">{{ m.links(p.links) }}</p></li>
+    {% for p in (others if in_page else others[:4]) %}
+    <li><h3>{{ m.L(p.title) }}</h3><p class="proj-meta">{% if p.funder %}{{ p.funder }}{% if p.code %} ({{ p.code }}){% endif %}. {% endif %}{{ m.T(p.role) }}, {{ p.period }}</p>{% if p.summary %}<p>{{ m.L(p.summary) }}</p>{% endif %}<p class="proj-links">{{ m.links(p.links) }}</p></li>
     {% endfor %}
   </ul>
+  {% if not in_page and others|length > 4 %}<p><a class="more" href="{{ url_for('projects', lang) }}">{{ t.projects_all }} ({{ site.projects|length }})</a></p>{% endif %}
   {% endif %}
 </section>
 {% endif %}

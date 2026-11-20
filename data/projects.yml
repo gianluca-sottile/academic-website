@@ -1,11 +1,10 @@
-- id: prin-2022
-  title: Spatio-temporal Functional Marked Point Processes for probabilistic forecasting of earthquakes
+- id: prin-2022-earthquakes
+  title: Spatio-temporal Functional Marked Point Processes for Probabilistic Forecasting of Earthquakes
   kind: funded
   funder: PRIN 2022 — MUR
   code: 2022BN7CJP
-  role: {en: "Research unit member (PI: G. Adelfio)", it: "Componente dell'unità di ricerca (PI: G. Adelfio)"}
-  period: 2023 – 2027
-  end: 2027-01
+  role: {en: "Participant (PI: Prof. G. Adelfio, University of Palermo)", it: "Partecipante (PI: Prof.ssa G. Adelfio, Università di Palermo)"}
+  period: 2024 – 2027
   summary:
     en: Statistical models for earthquake forecasting that treat seismic waveforms as functional marks of space–time point processes.
     it: Modelli statistici per la previsione dei terremoti che trattano le forme d'onda sismiche come marche funzionali di processi di punto spazio-temporali.
@@ -26,7 +25,7 @@
   title: From Data to Models with R
   kind: open-resource
   role: {en: Author, it: Autore}
-  period: 2026
+  period: 2020 –
   summary:
     en: Free bilingual course — from R basics to regression, machine learning and clustering, with exercises that run in the browser.
     it: Corso gratuito e bilingue — dalle basi di R a regressione, machine learning e clustering, con esercizi eseguibili nel browser.
@@ -34,26 +33,113 @@
     - {label: {en: Course website, it: Sito del corso}, url: "https://gianluca-sottile.github.io/An-R-Tutorial-for-Beginners/"}
     - {label: GitHub, url: "https://github.com/gianluca-sottile/An-R-Tutorial-for-Beginners"}
   featured: true
+- id: combiners
+  title: COMBINERS — COmplex graphical Models for BIological NEtwoRk Science
+  kind: funded
+  funder: PRIN 2022 — MUR
+  code: 2022SMNNKY_004
+  role: {en: "Participant (PI: Prof. F. Stingo, University of Florence)", it: "Partecipante (PI: Prof. F. Stingo, Università di Firenze)"}
+  period: 2023 – 2025
+  summary:
+    en: Contributed to two JRSS Series C papers, on the human haematopoietic system and on air-quality data.
+    it: Contributo a due articoli su JRSS Series C, sul sistema ematopoietico umano e su dati di qualità dell'aria.
+- id: breathe
+  title: BREATHE — Big data, IoT and AI for Air Pollution and Asthma Exacerbations
+  kind: funded
+  funder: PRIN 2022 — MUR
+  code: 2022EC49YC_002
+  role: {en: "Participant (PI: Dr M. Vettoretti, University of Padova)", it: "Partecipante (PI: Dr.ssa M. Vettoretti, Università di Padova)"}
+  period: 2023 – 2025
+  summary:
+    en: Contributed to a systematic review of machine-learning approaches for predicting asthma exacerbations (Artificial Intelligence Review).
+    it: Contributo alla revisione sistematica sugli approcci di machine learning per la previsione delle esacerbazioni asmatiche (Artificial Intelligence Review).
+- id: prin-2015-seismic
+  title: Complex Space-Time Modeling and Functional Analysis for Probabilistic Forecast of Seismic Events
+  kind: funded
+  funder: PRIN 2015 — MIUR
+  code: 20157PRZC4_001
+  role: {en: "Participant (PI: Prof. G. Adelfio)", it: "Partecipante (PI: Prof.ssa G. Adelfio)"}
+  period: 2017 – 2020
+  summary:
+    en: Contributed to the Computational Statistics paper on clusters of effect curves.
+    it: Contributo all'articolo su Computational Statistics sui cluster di curve degli effetti.
+- id: profood
+  title: {en: "PROFOOD — Valorisation of Sicilian dairy products", it: "PROFOOD — Valorizzazione delle produzioni lattiero-casearie siciliane"}
+  kind: funded
+  funder: PON
+  code: PON02_00451_3133441
+  role: {en: "Participant (PI: Prof. B. Portolano)", it: "Partecipante (PI: Prof. B. Portolano)"}
+  period: 2017 – 2020
+  summary:
+    en: SNP selection for the traceability of typical Sicilian dairy products; contributed to four papers on livestock genetics.
+    it: Selezione di SNP per la tracciabilità di prodotti lattiero-caseari tipici siciliani; contributo a quattro articoli di genetica animale.
+- id: agrifood
+  title: {en: "Integrated approach for Sicilian agri-food products", it: "Approccio integrato per prodotti agroalimentari siciliani"}
+  kind: funded
+  funder: PON Imprese e Competitività 2014–2020
+  code: F/050267/03X32
+  role: {en: "Participant (PI: Dr N. Francesca)", it: "Partecipante (PI: Dr. N. Francesca)"}
+  period: 2018 – 2020
+- id: dairy-biotech
+  title: {en: "Molecular biotechnologies for dairy supply chains", it: "Biotecnologie molecolari per le filiere lattiero-casearie"}
+  kind: funded
+  funder: PON
+  code: PON01_02249
+  role: {en: "Participant (PI: Prof. B. Portolano)", it: "Partecipante (PI: Prof. B. Portolano)"}
+  period: 2018 – 2020
+  summary:
+    en: Contributed to the Livestock Science paper on coat colour sidedness in cattle.
+    it: Contributo all'articolo su Livestock Science sulla colorazione del mantello nei bovini.
+- id: leo
+  title: LEO — Livestock Environment Opendata
+  kind: funded
+  funder: PSRN 2014–2020, sub-measure 16.2
+  code: PRJ-0185
+  role: {en: "Participant (PI: Prof. B. Portolano)", it: "Partecipante (PI: Prof. B. Portolano)"}
+  period: 2020 – 2022
+  summary:
+    en: Contributed to the Scientific Reports meta-analysis of European cattle breeds.
+    it: Contributo alla meta-analisi delle razze bovine europee pubblicata su Scientific Reports.
+- id: traiprolac
+  title: {en: "TRAIProL@C — Traceability of sheep dairy products", it: "TRAIProL@C — Tracciabilità dei prodotti lattiero-caseari ovini"}
+  kind: funded
+  funder: PO FESR 2014–2020, measure 1.1.5
+  role: {en: "Participant (PI: Prof. M.T. Sardina)", it: "Partecipante (PI: Prof.ssa M.T. Sardina)"}
+  period: 2019 – 2022
+  summary:
+    en: Authentication and traceability of innovative single-breed sheep dairy products.
+    it: Autenticazione e tracciabilità di prodotti lattiero-caseari ovini innovativi e monorazza.
+- id: chaser
+  title: {en: "CHASER study — Childhood asthma and environment", it: "Studio CHASER — Asma infantile e ambiente"}
+  kind: research
+  funder: ClinicalTrials.gov NCT02433275
+  role: {en: "Statistician (coordinator: Dr S. La Grutta)", it: "Statistico (coordinatrice: Dr.ssa S. La Grutta)"}
+  period: 2018 – 2020
+  summary:
+    en: Modelling asthma chronicity with multi-state and competing-risks models; contributed to the JACI paper.
+    it: Modellizzazione della cronicità dell'asma con modelli multi-stato e a rischi competitivi; contributo all'articolo su JACI.
+  links:
+    - {label: ClinicalTrials.gov, url: "https://clinicaltrials.gov/study/NCT02433275"}
 - id: covistat19
   title: CoViSTAT19
   kind: research
   role: {en: Team member, it: Componente del gruppo}
-  period: 2020 – 2021
+  period: 2020
   summary:
-    en: Real-time statistical analyses and forecasts of the COVID-19 epidemic in Italy, published openly by a University of Palermo team.
-    it: Analisi statistiche e previsioni in tempo reale sull'epidemia di COVID-19 in Italia, pubblicate in modo aperto da un gruppo dell'Università di Palermo.
+    en: Statistical monitoring and forecasting of the COVID-19 epidemic in Italy, published openly by a University of Palermo team.
+    it: Monitoraggio statistico e previsione dell'epidemia di COVID-19 in Italia, pubblicati in modo aperto da un gruppo dell'Università di Palermo.
   links:
-    - {label: {en: Website, it: Sito}, url: "https://www.unipa.it/covid19"}
+    - {label: {en: Website, it: Sito}, url: "https://www.unipa.it/CoViSTAT19---ANALISI-DATI-E-PREVISIONI-SU-COVID-19-/"}
     - {label: {en: Code, it: Codice}, url: "https://github.com/gianluca-sottile/covid19"}
 - id: pon-aim
-  title: PON AIM — microRNA network modelling
+  title: {en: "PON AIM — Modelling the microRNA system", it: "PON AIM — Modellizzazione del sistema microRNA"}
   kind: funded
   funder: PON "Attrazione e Mobilità Internazionale" — MUR
   code: AIM1873193-2
   role: {en: Assistant Professor (RTD-A) funded by the project, it: Ricercatore (RTD-A) finanziato dal progetto}
   period: 2019 – 2022
   summary:
-    en: Network models of the microRNA–target system across tissues, to compare tumour and healthy tissue and study the role of microRNAs in cancer onset.
-    it: Modelli di rete del sistema microRNA–target nei diversi tessuti, per confrontare tessuto tumorale e sano e studiare il ruolo dei microRNA nell'insorgenza del cancro.
+    en: microRNA–target interaction network models for different tissues from public databases (NIH-TCGA), and algorithms to predict microRNA-regulated genes.
+    it: Modelli di rete delle interazioni microRNA–target per diversi tessuti da database pubblici (NIH-TCGA) e algoritmi per predire i geni regolati dai microRNA.
   links:
-    - {label: {en: Programme, it: Programma}, url: "https://aim.cineca.it"}
+    - {label: {en: Project page, it: Pagina del progetto}, url: "https://www.unipa.it/dipartimenti/seas/progetti-aim/attivit-n.-2/index.html"}
